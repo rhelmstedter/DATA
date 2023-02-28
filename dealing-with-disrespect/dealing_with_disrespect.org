@@ -1,0 +1,56 @@
+#+TITLE: Dealing with Disrespectful Behavior
+#+AUTHOR: Russell Helmstedter
+#+DATE: <2023-02-24 Fri>
+
+* The Problem
+** Disrespectful Behavior
+There is a consensus that disrespectful behavior exhibited by students has reached an unacceptable level. We are defining disrespect as deliberate action such as walking away, defying, or talking back to a reasonable request from any adult on campus. While we agree that while there are other important issues, this is the principle non-negotiable issue we are facing. Teachers have committed to focusing on this one issue above all others. We need to reset the current narrative by coming out in full force and presenting a united front. The solution to this problem is twofold:
+1) Educate
+2) Enforce Direct Consequences
+* Solutions
+** Educate
+We are educators and this is what we do best. We need to teach students what constitutes disrespectful behavior and that will not be allowed at this school. Teachers have committed to creating slides that show clear examples of disrespect. These slides are to be pushed out in homeroom. When appropriate, we need to identify disrespectful behavior explain to students why it is disrespectful.
+*** Education
+**** TODO slides for homeroom :@Wulff:
+DEADLINE: <2023-02-28 Tue>
+Here are the [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][slides for homeroom]].
+** Consequences
+Teachers have agreed that any student who exhibits disrespect to any adult on campus will serve a lunch detention. There will be an initial 2-week implementation where teachers will volunteer to host detention in their classrooms. There will be no clubs during these two weeks since teachers will be hosting detention. Lunch detentions will consist of no more than 5 students per room. While serving a lunch detention, student use of electronic devices is prohibited. Furthermore, students are to complete a /staff apology letter/. If the letter is not completed, students will be assigned additional detentions until the completion of the letter.
+*** Logistics [0/4]
+**** TODO Creation of google sheet to organize the detentions :@Durkee:
+DEADLINE: <2023-02-28 Tue>
+**** TODO Creation of /staff apology letter/ :@Willis:@StClare:
+DEADLINE: <2023-02-28 Tue>
+**** TODO Generic email to parents notifying of detention :@Pipkin:
+DEADLINE: <2023-02-28 Tue>
+**** TODO Assign a /monitor teacher/ who will check in with each host teacher :@Helmstedter:
+DEADLINE: <2023-03-03 Fri>
+*** Admin Support [0/3]
+**** TODO Determine what happens with students who don't show up :@Admin:
+DEADLINE: <2023-03-03 Fri>
+**** TODO Determine how students are notified where they need to be :@Admin:
+DEADLINE: <2023-03-03 Fri>
+**** TODO Draft notification for parents of this policy through parent square :@Admin:
+DEADLINE: <2023-03-03 Fri>
+*** Items TBD [0/1]
+**** TODO Determine if we must contact home for lunch detention :@Helmstedter:
+DEADLINE: <2023-03-03 Fri>
+* Scope
+In order for this campaign to be successful it is crucial that our focus remains narrow and all staff work towards de-escalation of situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
+If teachers need further support with broader classroom management, Mike Robinson has offered support for implementing CHAMPS.
+* Timeline for Initial 2 week Implementation
+** Create Necessary Documents
+DEADLINE: <2023-03-03 Fri> SCHEDULED: <2023-02-27 Mon>
+** Begin Education Campaign
+SCHEDULED: <2023-03-06 Mon>
+** First week of lunch detention
+SCHEDULED: <2023-03-13 Mon>
+** Second week of lunch detention
+SCHEDULED: <2023-03-20 Mon>
+* Future Issues
+After the initial two week period, we can scale back the number of teachers involved in hosting the detentions.
+** Future Issues [0/2]
+*** TODO Construct a rotating calendar that considers days per week and people :@Admin:
+DEADLINE: <2023-03-24 Fri>
+*** TODO Construct a procedure for getting people paid :@Admin:
+DEADLINE: <2023-03-24 Fri>
