@@ -1,6 +1,6 @@
 #+TITLE: Dealing with Disrespectful Behavior
 #+AUTHOR: Russell Helmstedter
-#+DATE: <2023-02-27 Mon>
+#+DATE: <2023-02-28 Tue>
 #+OPTIONS: \n:t
 #+LATEX_HEADER: \makeatletter \@ifpackageloaded{geometry}{\geometry{margin=1in}}{\usepackage[margin=1in]{geometry}} \makeatother\hypersetup{colorlinks, allcolors=., urlcolor=blue,}\bigskip
 * The Problem
@@ -17,8 +17,7 @@ Teachers have agreed that any student who exhibits disrespect to any adult on ca
 In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work towards de-escalation of situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
 
 If teachers need further support with broader classroom management, Mike Robinson has offered support for implementing CHAMPS.
-
-** Logistics [1/4]
+** Logistics [1/5]
 **** STRT Creation of Slides for Homeroom :@Wulff:
 DEADLINE: <2023-02-28 Tue>
 \n
@@ -30,27 +29,27 @@ DEADLINE: <2023-02-28 Tue>
 *Due*: <2023-02-28 Tue>
 *Status*: Currently in draft form: [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][google sheet]]. Email was sent to staff and several teachers volunteered. Durkee has placed teachers in the sheet.
 **** STRT Creation of Staff Apology Letter :@Willis:@StClare:
+DEADLINE: <2023-03-01 Wed>
+\n
+*Due*: <2023-03-01 Wed>
+*Status*: Spoke with St. Clare <2023-02-28 Tue>. Draft has been reviewed by Lukins, Willis, Helmstedter.
+**** STRT Create Generic Parent Email :@Pipkin:
 DEADLINE: <2023-02-28 Tue>
 \n
 *Due*: <2023-02-28 Tue>
-*Status*: Checked in with St Clare. Draft that will be available for review by due date.
-**** TODO Create Generic Parent Email :@Pipkin:
-DEADLINE: <2023-02-28 Tue>
-\n
-*Due*: <2023-02-28 Tue>
-*Status*: Emailed Pipkin to check-in. No response.
+*Status*: Spoke with Pipkin, draft sent to Durkee <2023-02-28 Tue>.
 **** DONE Assign a /Monitor Teacher/ :@Helmstedter:
 DEADLINE: <2023-03-03 Fri>
 \n
 *Due*: <2023-03-03 Fri>
 *Status*: Email was sent to staff asking if their were volunteers for the monitor teacher. No teacher volunteered. Helmstedter is assigned to be the monitor teacher for the initial 2 week period. Will coordinate with admin, campus supervisors, and detention teachers.
 ** Admin Support [0/3]
-*Status*: Helmstedter and Davidson will meet with Admin <2023-02-28> to discuss the following tasks.
+*Status*: +Helmstedter and Davidson will meet with Admin <2023-02-28 Tue> to discuss the following tasks.+ Admin had to deal with a situation after school. Meeting is now scheduled <2023-03-02 Thu 07:45>.
 **** TODO Determine Consequences for No Shows :@Admin:
 DEADLINE: <2023-03-03 Fri>
 \n
 *Due*: <2023-03-03 Fri>
-**** TODO Determine Student Notification :@Admin:
+**** TODO Determine Student Notification Procedure :@Admin:
 DEADLINE: <2023-03-03 Fri>
 \n
 *Due*: <2023-03-03 Fri>
@@ -59,7 +58,7 @@ DEADLINE: <2023-03-03 Fri>
 \n
 *Due*: <2023-03-03 Fri>
 ** Items TBD [0/1]
-**** TODO Determine if Parent Contact Required :@Helmstedter:
+**** TODO Determine if Parent Contact is Required :@Helmstedter:
 DEADLINE: <2023-03-03 Fri>
 \n
 *Due*: <2023-03-03 Fri>
@@ -72,12 +71,11 @@ There are 4 major documents that need to be created
 + [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][Homeroom Slides (Draft)]]
 + [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Google Sheet (Draft)]]
 + Staff Apology Letter
-+ Generic email for Parents
++ Generic Email for Parents
 
 ** Begin Education Campaign
 DEADLINE: <2023-03-10 Fri> SCHEDULED: <2023-03-06 Mon>
 The week of Mon Mar 6, 2023.
-Slides are pushed out in homeroom. Adults on campus begin informing students of what is coming the following week and explainging why it matters.
 ** First week of lunch detention
 DEADLINE: <2023-03-17 Fri> SCHEDULED: <2023-03-13 Mon>
 The week of Mon Mar 13, 2023.
@@ -87,15 +85,18 @@ The week of Mon Mar 20, 2023.
 ** Scaled Down Detention
 DEADLINE: <2023-03-31 Fri> SCHEDULED: <2023-03-27 Mon>
 The week of Mon Mar 27, 2023.
-
 * Future Issues
 After the initial two week period, we can scale back the number of teachers involved in hosting the detentions. This will involve a rotation of teachers.
-** Logistics [0/2]
+** Logistics [0/3]
 **** TODO Construct a Rotating Calendar :@Admin:
 DEADLINE: <2023-03-24 Fri>
 \n
 *Due*: <2023-03-24 Fri>
-**** TODO Construct a procedure for Getting People Paid :@Admin:
+**** TODO Procedure for Getting People Paid :@Admin:
+DEADLINE: <2023-03-24 Fri>
+\n
+*Due*: <2023-03-24 Fri>
+**** TODO Procedure for Tracking Repeat Students :@Admin:
 DEADLINE: <2023-03-24 Fri>
 \n
 *Due*: <2023-03-24 Fri>
