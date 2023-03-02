@@ -17,7 +17,7 @@ Teachers have agreed that any student who exhibits disrespect to any adult on ca
 In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work towards de-escalation of situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
 
 If teachers need further support with broader classroom management, Mike Robinson has offered support for implementing CHAMPS.
-** Logistics [1/5]
+** Logistics [2/5]
 **** STRT Creation of Slides for Homeroom :@Wulff:
 DEADLINE: <2023-02-28 Tue>
 \n
@@ -28,16 +28,16 @@ DEADLINE: <2023-02-28 Tue>
 \n
 *Due*: <2023-02-28 Tue>
 *Status*: Currently in draft form: [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][google sheet]]. Email was sent to staff and several teachers volunteered. Durkee has placed teachers in the sheet.
-**** STRT Creation of Staff Apology Letter :@Willis:@StClare:
+**** DONE Creation of Staff Apology Letter :@Willis:@StClare:
 DEADLINE: <2023-03-01 Wed>
 \n
 *Due*: <2023-03-01 Wed>
-*Status*: Spoke with St. Clare <2023-02-28 Tue>. Draft has been reviewed by Lukins, Willis, Helmstedter.
+*Status*: Spoke with St. Clare <2023-02-28 Tue>. Draft has been reviewed by Lukins, Willis, Helmstedter. [[https://docs.google.com/document/d/1GiSqw4xslS1L3ioGGRFosYYuLP2ziROc/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Final draft]] done <2023-03-01 Wed>.
 **** STRT Create Generic Parent Email :@Pipkin:
 DEADLINE: <2023-02-28 Tue>
 \n
 *Due*: <2023-02-28 Tue>
-*Status*: Spoke with Pipkin, draft sent to Durkee <2023-02-28 Tue>.
+*Status*: Spoke with Pipkin, draft sent to Durkee <2023-02-28 Tue>. [[https://docs.google.com/document/d/18eMGA8ScMb8S8B4G99kOatsZstaJ_c0fWdk8wJq6EZo/edit?usp=sharing][Draft]] has been reviewed by Helmstedter and Durkee <2023-03-01 Wed>.
 **** DONE Assign a /Monitor Teacher/ :@Helmstedter:
 DEADLINE: <2023-03-03 Fri>
 \n
@@ -57,11 +57,24 @@ DEADLINE: <2023-03-03 Fri>
 DEADLINE: <2023-03-03 Fri>
 \n
 *Due*: <2023-03-03 Fri>
-** Items TBD [0/1]
-**** TODO Determine if Parent Contact is Required :@Helmstedter:
+** Items TBD [1/1]
+**** DONE Determine if Parent Contact is Required :@Helmstedter:
 DEADLINE: <2023-03-03 Fri>
 \n
 *Due*: <2023-03-03 Fri>
+
+From VUSD [[https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030272&revid=763bhJv9jiJ3EEqdhslshHJ8A==&PG=6&st=detention&mt=Exact][Board Policy Manual Regulation 5144:Discipline]]
+#+BEGIN_QUOTE
+*Recess Restriction*
+
+Teachers may restrict a student's recess time only when they believe that this action is the most effective way to bring about improved behavior. When recess restriction involves the withholding of physical activity from a student, teachers shall try other disciplinary measures before imposing the restriction. Recess restriction shall be subject to the following conditions:
+
+1. The student shall be given adequate time to use the restroom and get a drink or eat lunch, as appropriate.
+2. The student shall remain under a certificated employee's supervision during the period of restriction.
+3. The student's teacher shall inform the principal of any recess restrictions imposed.
+#+END_QUOTE
+
+My interpretation is that we are *not required* to notify parents of a lunch time detention. However, I believe it is important to involve the parents if we wish to make a difference.
 * Timeline for Initial 2 week Implementation
 ** Create Necessary Documents
 DEADLINE: <2023-03-03 Fri> SCHEDULED: <2023-02-27 Mon>
@@ -70,8 +83,8 @@ The week of Mon Feb 27, 2023.
 There are 4 major documents that need to be created
 + [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][Homeroom Slides (Draft)]]
 + [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Google Sheet (Draft)]]
-+ Staff Apology Letter
-+ Generic Email for Parents
++ [[https://docs.google.com/document/d/1GiSqw4xslS1L3ioGGRFosYYuLP2ziROc/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Staff Apology Letter]]
++ [[https://docs.google.com/document/d/18eMGA8ScMb8S8B4G99kOatsZstaJ_c0fWdk8wJq6EZo/edit?usp=sharing][Generic Email for Parents (Draft)]]
 
 ** Begin Education Campaign
 DEADLINE: <2023-03-10 Fri> SCHEDULED: <2023-03-06 Mon>
