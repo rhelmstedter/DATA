@@ -48,31 +48,6 @@ DEADLINE: <2023-03-03 Fri>
 \n
 *Due*: <2023-03-03 Fri>
 *Status*: Email was sent to staff asking if their were volunteers for the monitor teacher. No teacher volunteered. Helmstedter is assigned to be the monitor teacher for the initial 2 week period. Will coordinate with admin, campus supervisors, and detention teachers.
-** Admin Support [0/3]
-*Status*: Helmstedter met with Admin (Klopfenstein & Cohen) <2023-03-02 Thu>.
-**** STRT Determine Consequences for No Shows :@Admin:
-DEADLINE: <2023-03-03 Fri>
-\n
-*Due*: <2023-03-03 Fri>
-*Status*: For students who do not show up, there will be a Friday afterschool detention in C-3. This option requires transportation, and a Saturday option for any student who wishes to do that instead of after school. Details are in the works for this process.<2023-03-02 Thu>.
-**** STRT Determine Student Notification Procedure :@Admin:
-DEADLINE: <2023-03-03 Fri>
-\n
-*Due*: <2023-03-03 Fri>
-*Status*: The paper slip shown below will serve as an initial notification for the student. The white copy is sent to the office, the pink copy is given to the student. After office use, the white copy will be placed in the teacher's box. On the day of the detention, Navarro (or whoever is in the support secretary/attendance position) will go through the spreadsheet and create call slips. That will be send during the second block period.
-\n
-#+CAPTION: image of detention slip
-#+NAME:   detention slip
-#+attr_latex: :width 250
-[[./detention_slip.jpg]]
-\n
-\n
-**** STRT Draft Parent Square Notification :@Admin:
-DEADLINE: <2023-03-03 Fri>
-\n
-*Due*: <2023-03-03 Fri>
-*Status*: Cohen will draft a notification that will address this issue specifically. To be sent out <2023-03-10 Fri>.
-** Items TBD [1/1]
 **** DONE Determine if Parent Contact is Required :@Helmstedter:
 DEADLINE: <2023-03-03 Fri>
 \n
@@ -90,27 +65,44 @@ Teachers may restrict a student's recess time only when they believe that this a
 #+END_QUOTE
 
 My interpretation is that we are *not required* to notify parents of a lunch time detention. However, I believe it is important to involve the parents if we wish to make a difference. As the monitor teacher, Helmstedter will work with admin to get access and send out the parent email.
+** Admin Support [0/3]
+*Status*: Helmstedter met with Admin (Klopfenstein & Cohen) <2023-03-02 Thu>.
+**** STRT Determine Consequences for No Shows :@Admin:
+DEADLINE: <2023-03-03 Fri>
+\n
+*Due*: <2023-03-03 Fri>
+*Status*: For students who do not show up, there will be a Friday afterschool detention in C-3. This option requires transportation, and a Saturday option for any student who wishes to do that instead of after school. Details are in the works for this process.<2023-03-02 Thu>.
+**** STRT Determine Student Notification Procedure :@Admin:
+DEADLINE: <2023-03-03 Fri>
+\n
+*Due*: <2023-03-03 Fri>
+*Status*: The paper slip shown below will serve as an initial notification for the student. The white copy is sent to the office, the pink copy is given to the student. After office use, the white copy will be placed in the teacher's box. On the day of the detention, Navarro (or whoever is in the support secretary/attendance position) will go through the spreadsheet and create call slips. That will be send during the second block period.
+\n
+#+CAPTION: image of detention slip
+#+NAME:   detention slip
+#+attr_latex: :width 250
+[[./detention_slip.jpg]]
+**** STRT Draft Parent Square Notification :@Admin:
+DEADLINE: <2023-03-03 Fri>
+\n
+*Due*: <2023-03-03 Fri>
+*Status*: Cohen will draft a notification that will address this issue specifically. To be sent out <2023-03-10 Fri>.
 * Timeline for Initial 2 week Implementation
-*** Create Necessary Documents
+** Create Necessary Documents Feb 27 to Mar 03
 DEADLINE: <2023-03-03 Fri> SCHEDULED: <2023-02-27 Mon>
-The week of Mon Feb 27, 2023.
 There are 4 major documents that need to be created:
 + [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][Homeroom Slides]]
 + [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Google Sheet (Draft)]]
 + [[https://docs.google.com/document/d/1GiSqw4xslS1L3ioGGRFosYYuLP2ziROc/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Staff Apology Letter]]
 + [[https://docs.google.com/document/d/18eMGA8ScMb8S8B4G99kOatsZstaJ_c0fWdk8wJq6EZo/edit?usp=sharing][Generic Email for Parents]]
-*** Begin Education Campaign
+** Begin Education Campaign Mar 06 to Mar 10
 DEADLINE: <2023-03-10 Fri> SCHEDULED: <2023-03-06 Mon>
-The week of Mon Mar 6, 2023.
-*** First week of lunch detention
+** First week of lunch detention Mar 13 to Mar 17
 DEADLINE: <2023-03-17 Fri> SCHEDULED: <2023-03-13 Mon>
-The week of Mon Mar 13, 2023.
-*** Second week of lunch detention
+** Second week of lunch detention Mar 20 to Mar 24
 DEADLINE: <2023-03-24 Fri> SCHEDULED: <2023-03-20 Mon>
-The week of Mon Mar 20, 2023.
-*** Scaled Down Detention
+** Scaled Down Detention Mar 27 to Mar 31
 DEADLINE: <2023-03-31 Fri> SCHEDULED: <2023-03-27 Mon>
-The week of Mon Mar 27, 2023.
 * Future Issues
 After the initial two week period, we can scale back the number of teachers involved in hosting the detentions. This will involve a rotation of teachers.
 ** Logistics [0/3]
