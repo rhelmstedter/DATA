@@ -17,7 +17,7 @@ Teachers have agreed that any student who exhibits disrespect to any adult on ca
 In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work towards de-escalation of situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
 
 If teachers need further support with broader classroom management, Mike Robinson has offered support for implementing CHAMPS.
-** Logistics [4/6]
+** Logistics [5/7]
 **** DONE Creation of Slides for Homeroom :@Wulff:
 DEADLINE: <2023-02-28 Tue>
 \n
@@ -27,12 +27,27 @@ Due:  <2023-02-28 Tue>
 DEADLINE: <2023-03-10 Fri>
 \n
 Due:  <2023-03-10 Fri>
-*Status*: Wulff and Lukins are considering three more scenarios for the first week of the dentention. Helmstedter is checking with Admin.
+*Status*: Wulff and Lukins are considering three more scenarios for the first week of the dentention. Admin approves <2023-03-03 Fri>.
 **** STRT Creation of Google Sheet :@Durkee:
 DEADLINE: <2023-02-28 Tue>
 \n
 *Due*: <2023-02-28 Tue>
 *Status*: Currently in draft form: [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][google sheet]]. Email was sent to staff and several teachers volunteered. Durkee has placed teachers in the sheet.
+***** TODO Sum number of students per day :@Helmstedter:
+DEADLINE: <2023-03-06 Mon>
+\n
+*Due*: <2023-03-06 Mon>
+Helmstedter will work to sum the number of students in detention in each day.
+***** TODO Add links to documents :@Helmstedter:
+DEADLINE: <2023-03-06 Mon>
+\n
+*Due*: <2023-03-06 Mon>
+***** TODO Add a column for teacher who assigned student :@Helmstedter:
+DEADLINE: <2023-03-06 Mon>
+\n
+*Due*: <2023-03-06 Mon>
+Helmstedter spoke with Lukins. She suggested to add a place to indicate who assigned the detention.
+
 **** DONE Creation of Staff Apology Letter :@Willis:@StClare:
 DEADLINE: <2023-03-01 Wed>
 \n
@@ -65,19 +80,18 @@ Teachers may restrict a student's recess time only when they believe that this a
 #+END_QUOTE
 
 My interpretation is that we are *not required* to notify parents of a lunch time detention. However, I believe it is important to involve the parents if we wish to make a difference. As the monitor teacher, Helmstedter will work with admin to get access and send out the parent email.
-** Admin Support [0/3]
+** Admin Support [2/3]
 *Status*: Helmstedter met with Admin (Klopfenstein & Cohen) <2023-03-02 Thu>.
-**** STRT Determine Consequences for No Shows :@Admin:
+**** DONE Determine Consequences for No Shows :@Admin:
 DEADLINE: <2023-03-03 Fri>
 \n
 *Due*: <2023-03-03 Fri>
 *Status*: For students who do not show up, there will be a Friday afterschool detention in C-3. This option requires transportation, and a Saturday option for any student who wishes to do that instead of after school. Details are in the works for this process.<2023-03-02 Thu>.
-**** STRT Determine Student Notification Procedure :@Admin:
+**** DONE Determine Student Notification Procedure :@Admin:
 DEADLINE: <2023-03-03 Fri>
 \n
 *Due*: <2023-03-03 Fri>
-*Status*: The paper slip shown below will serve as an initial notification for the student. The white copy is sent to the office, the pink copy is given to the student. After office use, the white copy will be placed in the teacher's box. On the day of the detention, Navarro (or whoever is in the support secretary/attendance position) will go through the spreadsheet and create call slips. That will be send during the second block period.
-\n
+*Status*: The paper slip shown below (Figure 1) will serve as an initial notification for the student. The white copy is sent to the office, the pink copy is given to the student. After office use, the white copy will be placed in the teacher's box. On the day of the detention, Navarro (or whoever is in the support secretary/attendance position) will go through the spreadsheet and create call slips. That will be send during the second block period.
 #+CAPTION: image of detention slip
 #+NAME:   detention slip
 #+attr_latex: :width 250
