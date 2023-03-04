@@ -17,7 +17,7 @@ Teachers have agreed that any student who exhibits disrespect to any adult on ca
 In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work towards de-escalation of situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
 
 If teachers need further support with broader classroom management, Mike Robinson has offered support for implementing CHAMPS.
-** Logistics [5/7]
+** Logistics [6/7]
 **** DONE Creation of Slides for Homeroom :@Wulff:
 DEADLINE: <2023-02-28 Tue>
 \n
@@ -28,21 +28,21 @@ DEADLINE: <2023-03-10 Fri>
 \n
 Due:  <2023-03-10 Fri>
 *Status*: Wulff and Lukins are considering three more scenarios for the first week of the dentention. Admin approves <2023-03-03 Fri>.
-**** STRT Creation of Google Sheet :@Durkee:
+**** DONE Creation of Google Sheet :@Durkee:
 DEADLINE: <2023-02-28 Tue>
 \n
 *Due*: <2023-02-28 Tue>
-*Status*: Currently in draft form: [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][google sheet]]. Email was sent to staff and several teachers volunteered. Durkee has placed teachers in the sheet.
-***** TODO Sum number of students per day :@Helmstedter:
+*Status*:  [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Final Draft]]. Email was sent to staff and several teachers volunteered. Durkee has placed teachers in the sheet. Helmstedter has updated sheets to include the information indicated below <2023-03-04 Sat>.
+***** DONE Sum number of students per day :@Helmstedter:
 DEADLINE: <2023-03-06 Mon>
 \n
 *Due*: <2023-03-06 Mon>
-Helmstedter will work to sum the number of students in detention in each day.
-***** TODO Add links to documents :@Helmstedter:
+Helmstedter will create a sheet that counts the number of students in detention in each day. This will be used by the cafeteria to prepare lunches.
+***** DONE Add links to documents :@Helmstedter:
 DEADLINE: <2023-03-06 Mon>
 \n
 *Due*: <2023-03-06 Mon>
-***** TODO Add a column for teacher who assigned student :@Helmstedter:
+***** DONE Add a column for teacher who assigned student :@Helmstedter:
 DEADLINE: <2023-03-06 Mon>
 \n
 *Due*: <2023-03-06 Mon>
@@ -106,17 +106,17 @@ DEADLINE: <2023-03-03 Fri>
 DEADLINE: <2023-03-03 Fri> SCHEDULED: <2023-02-27 Mon>
 There are 4 major documents that need to be created:
 + [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][Homeroom Slides]]
-+ [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Google Sheet (Draft)]]
++ [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Google Sheet]]
 + [[https://docs.google.com/document/d/1GiSqw4xslS1L3ioGGRFosYYuLP2ziROc/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Staff Apology Letter]]
 + [[https://docs.google.com/document/d/18eMGA8ScMb8S8B4G99kOatsZstaJ_c0fWdk8wJq6EZo/edit?usp=sharing][Generic Email for Parents]]
 ** Begin Education Campaign Mar 06 to Mar 10
-DEADLINE: <2023-03-10 Fri> SCHEDULED: <2023-03-06 Mon>
+SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
 ** First week of lunch detention Mar 13 to Mar 17
-DEADLINE: <2023-03-17 Fri> SCHEDULED: <2023-03-13 Mon>
+SCHEDULED: <2023-03-13 Mon> DEADLINE: <2023-03-17 Fri>
 ** Second week of lunch detention Mar 20 to Mar 24
-DEADLINE: <2023-03-24 Fri> SCHEDULED: <2023-03-20 Mon>
+SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-24 Fri>
 ** Scaled Down Detention Mar 27 to Mar 31
-DEADLINE: <2023-03-31 Fri> SCHEDULED: <2023-03-27 Mon>
+SCHEDULED: <2023-03-27 Mon> DEADLINE: <2023-03-31 Fri>
 * Future Issues
 After the initial two week period, we can scale back the number of teachers involved in hosting the detentions. This will involve a rotation of teachers.
 ** Logistics [0/3]
