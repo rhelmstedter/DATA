@@ -3,6 +3,7 @@
 #+DATE: <2023-02-28 Tue>
 #+OPTIONS: \n:t
 #+LATEX_HEADER: \makeatletter \@ifpackageloaded{geometry}{\geometry{margin=1in}}{\usepackage[margin=1in]{geometry}} \makeatother\hypersetup{colorlinks, allcolors=., urlcolor=blue,}\bigskip
+#+ATTR_LATEX: :environment quotation
 * The Problem
 ** Disrespectful Behavior
 There is a consensus that disrespectful behavior exhibited by students has reached an unacceptable level. We are defining disrespect as deliberate action such as walking away, defying, or talking back to a reasonable request from any adult on campus. While we agree that while there are other important issues, this is the principle non-negotiable issue we are facing. Teachers have committed to focusing on this one issue above all others. We need to reset the current narrative by coming out in full force and presenting a united front. The solution to this problem is twofold:
@@ -27,7 +28,7 @@ Due:  <2023-02-28 Tue>
 DEADLINE: <2023-03-10 Fri>
 \n
 Due:  <2023-03-10 Fri>
-*Status*: Wulff and Lukins are considering three more scenarios for the first week of the dentention. Admin approves <2023-03-03 Fri>.
+*Status*: Wulff and Lukins are considering three more scenarios for the first week of the detention. Admin approves <2023-03-03 Fri>.
 **** DONE Creation of Google Sheet :@Durkee:
 DEADLINE: <2023-02-28 Tue>
 \n
