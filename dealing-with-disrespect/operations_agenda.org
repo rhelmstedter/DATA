@@ -1,140 +1,34 @@
-#+TITLE: Dealing with Disrespectful Behavior
-#+AUTHOR: Russell Helmstedter
-#+DATE: <2023-03-06 Mon>
-#+OPTIONS: \n:t
+#+title: Operations Agenda For Leadership
+#+date: <2023-03-07 Tue>
+#+author: Russell Helmstedter
 #+LATEX_HEADER: \makeatletter \@ifpackageloaded{geometry}{\geometry{margin=1in}}{\usepackage[margin=1in]{geometry}} \makeatother\hypersetup{colorlinks, allcolors=., urlcolor=blue,}\bigskip
 #+ATTR_LATEX: :environment quotation
-* The Problem
-** Disrespectful Behavior
-There is a consensus that disrespectful behavior exhibited by students has reached an unacceptable level. We are defining disrespect as deliberate action such as walking away, defying, or talking back to a reasonable request from any adult on campus. While we agree that while there are other important issues, this is the principle non-negotiable issue we are facing. Teachers have committed to focusing on this one issue above all others. We need to reset the current narrative by coming out in full force and presenting a united front. The solution to this problem is twofold:
-1) Educate
-2) Enforce Consequences
-* Solutions
-** Educate
-We are educators and this is what we do best. We need to teach students what constitutes disrespectful behavior and that will not be allowed at this school. Teachers have committed to creating slides that show clear examples of disrespect. These slides are to be pushed out in homeroom. When appropriate, all staff members need to identify disrespectful behavior and explain to students why it is disrespectful.
-** Consequences
-Teachers have agreed that any student who exhibits disrespect to any adult on campus will serve a lunch detention. There will be an initial 2-week implementation where teachers will volunteer to host detention in their classrooms. There will be no clubs during these two weeks since teachers will be hosting detention. Lunch detentions will consist of no more than 5 students per room. While serving a lunch detention, student use of electronic devices is prohibited. Furthermore, students are to complete a /staff apology letter/. This letter will provide students an opportunity to reflect on their behavior. If the letter is not completed, students will be assigned additional detentions until the completion of the letter.
-** Scope
-In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work towards de-escalation of situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
-
-If teachers need further support with broader classroom management, Mike Robinson has offered support for implementing CHAMPS.
-** Logistics [6/7]
-**** DONE Creation of Slides for Homeroom :@Wulff:
-DEADLINE: <2023-02-28 Tue>
-\n
-*Status*: Initial slides are finished and available here: [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][slides for homeroom]]. Slides have been reviewed by St. Clare, Gonzales, Cohen, and Helmstedter <2023-03-01 Wed>.
-**** STRT Creation of Second round of Slides :@Wulff:@Lukins:
-DEADLINE: <2023-03-10 Fri>
-\n
-Due:  <2023-03-10 Fri>
-*Status*: Wulff and Lukins are considering three more scenarios for the first week of the detention. Admin approved <2023-03-03 Fri>.
-**** DONE Creation of Google Sheet :@Durkee:
-DEADLINE: <2023-02-28 Tue>
-\n
-*Status*:  [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Final Draft]]. Email was sent to staff and several teachers volunteered. Durkee has placed teachers in the sheet. Helmstedter has updated sheets to include the information indicated below <2023-03-04 Sat>.
-***** DONE Sum number of students per day :@Helmstedter:
-DEADLINE: <2023-03-06 Mon>
-\n
-Helmstedter will create a sheet that counts the number of students in detention in each day. This will be used by the cafeteria to prepare lunches.
-***** DONE Add links to documents :@Helmstedter:
-DEADLINE: <2023-03-06 Mon>
-***** DONE Add a column for teacher who assigned student :@Helmstedter:
-DEADLINE: <2023-03-06 Mon>
-\n
-Helmstedter spoke with Lukins. She suggested to add a place to indicate who assigned the detention.
-
-**** DONE Creation of Staff Apology Letter :@Willis:@StClare:
-DEADLINE: <2023-03-01 Wed>
-\n
-*Status*: Spoke with St. Clare <2023-02-28 Tue>. Draft has been reviewed by Lukins, Willis, Helmstedter. [[https://docs.google.com/document/d/1GiSqw4xslS1L3ioGGRFosYYuLP2ziROc/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Final draft]] done <2023-03-01 Wed>.
-**** DONE Create Generic Parent Email :@Pipkin:
-DEADLINE: <2023-02-28 Tue>
-\n
-*Status*: Spoke with Pipkin, draft sent to Durkee <2023-02-28 Tue>. The quote from Cohen was added at the beginning. [[https://docs.google.com/document/d/18eMGA8ScMb8S8B4G99kOatsZstaJ_c0fWdk8wJq6EZo/edit?usp=sharing][Final Draft]] has been reviewed by Helmstedter <2023-03-02 Thu>.
-**** DONE Assign a /Monitor Teacher/ :@Helmstedter:
-DEADLINE: <2023-03-03 Fri>
-\n
-*Status*: Email was sent to staff asking if their were volunteers for the monitor teacher. No teacher volunteered. Helmstedter is assigned to be the monitor teacher for the initial 2 week period. Will coordinate with admin, campus supervisors, and detention teachers.
-**** DONE Determine if Parent Contact is Required :@Helmstedter:
-DEADLINE: <2023-03-03 Fri>
-\n
-*Status*: From VUSD [[https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030272&revid=763bhJv9jiJ3EEqdhslshHJ8A==&PG=6&st=detention&mt=Exact][Board Policy Manual Regulation 5144:Discipline]]
-#+BEGIN_QUOTE
-*Recess Restriction*
-
-Teachers may restrict a student's recess time only when they believe that this action is the most effective way to bring about improved behavior. When recess restriction involves the withholding of physical activity from a student, teachers shall try other disciplinary measures before imposing the restriction. Recess restriction shall be subject to the following conditions:
-
-1. The student shall be given adequate time to use the restroom and get a drink or eat lunch, as appropriate.
-2. The student shall remain under a certificated employee's supervision during the period of restriction.
-3. The student's teacher shall inform the principal of any recess restrictions imposed.
-#+END_QUOTE
-
-Helmstedter's interpretation is that we are *not required* to notify parents of a lunch time detention. However, it is important to involve the parents if we wish to make a difference. As the monitor teacher, Helmstedter will work with admin to get access and send out the parent email.
-** Admin Support [2/4]
-*Status*: Helmstedter met with Admin (Klopfenstein & Cohen) <2023-03-02 Thu>.
-**** DONE Determine Consequences for No Shows :@Admin:
-DEADLINE: <2023-03-03 Fri>
-\n
-*Status*: For students who do not show up, there will be a Friday afterschool detention in C-3. This option requires transportation, and a Saturday option for any student who wishes to do that instead of after school. Details are in the works for this process.<2023-03-02 Thu>.
-**** DONE Determine Student Notification Procedure :@Admin:
-DEADLINE: <2023-03-03 Fri>
-\n
-*Status*: The paper slip shown below (Figure 1) will serve as an initial notification for the student. The white copy is sent to the office, the pink copy is given to the student. After office use, the white copy will be placed in the teacher's box. On the day of the detention, Navarro (or whoever is in the support secretary/attendance position) will go through the spreadsheet and create call slips. That will be sent during the second block period.
-#+CAPTION: image of detention slip
-#+NAME:   detention slip
-#+attr_latex: :width 250
-[[./detention_slip.jpg]]
-**** STRT Draft Parent Square Notification :@Admin:
-DEADLINE: <2023-03-10 Fri>
-\n
-*Due*: <2023-03-10 Fri>
-*Status*: Cohen will draft a notification that will address this issue specifically. To be sent out <2023-03-10 Fri>.
-**** STRT Meal Service [0/4] :@Admin:
-DEADLINE: <2023-03-10 Fri>
-\n
-*Due*: <2023-03-10 Fri>
-*Status*: The following items need to be completed:
-
-- [ ] Communicate meal pick-up time to cafeteria manager
-- [ ] Assign people to pick up and distribute lunches
-- [ ] Figure out how delivery people know the correct number per class
-- [ ] Ensure support staff, paras, campus supervisors, and custodians are up to date
-
-Helmstedter met with Carriger <2023-03-06 Mon>. She is on board to have lunches prepared for students who are serving detention. She has the total number of lunches required per day. Helmstedter will check in with her on <2023-03-13 Mon> and <2023-03-07 Tue> at nutrition.
-
-Suggestions made by Helmstedter and Carriger:
-- Lunches should be ready 10 to 15 minutes before the end of the block.
-- Zach Johnson and student office aides can pick up and deliver the meals.
-- Delivery people can use an iPad and the spread sheet.
-* Timeline for Initial 2 week Implementation
-** DONE Create Necessary Documents Feb 27 to Mar 03
-DEADLINE: <2023-03-03 Fri> SCHEDULED: <2023-02-27 Mon>
-There are 4 major documents that need to be created:
-+ [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][Homeroom Slides]]
+* Review Documents
 + [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Google Sheet]]
 + [[https://docs.google.com/document/d/1GiSqw4xslS1L3ioGGRFosYYuLP2ziROc/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Staff Apology Letter]]
 + [[https://docs.google.com/document/d/18eMGA8ScMb8S8B4G99kOatsZstaJ_c0fWdk8wJq6EZo/edit?usp=sharing][Generic Email for Parents]]
-** STRT Begin Education Campaign Mar 06 to Mar 10
-SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
-*Status*: Slides were successfully incorporated into homeroom <2023-03-06 Mon> and will continue to be included for the rest of the week.
-** First week of lunch detention Mar 13 to Mar 17
-SCHEDULED: <2023-03-13 Mon> DEADLINE: <2023-03-17 Fri>
-** Second week of lunch detention Mar 20 to Mar 24
-SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-24 Fri>
-** Scaled Down Detention Mar 27 to Mar 31
-SCHEDULED: <2023-03-27 Mon> DEADLINE: <2023-03-31 Fri>
-* Future Issues
-After the initial two week period, we can scale back the number of teachers involved in hosting the detentions. This will involve a rotation of teachers.
-** Logistics [0/3]
-**** TODO Construct a Rotating Calendar :@Admin:
-DEADLINE: <2023-03-24 Fri>
-\n
-*Due*: <2023-03-24 Fri>
-**** TODO Procedure for Getting People Paid :@Admin:
-DEADLINE: <2023-03-24 Fri>
-\n
-*Due*: <2023-03-24 Fri>
-**** TODO Procedure for Tracking Repeat Students :@Admin:
-DEADLINE: <2023-03-24 Fri>
-\n
-*Due*: <2023-03-24 Fri>
+* Assigning Detentions
+In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work towards de-escalation of situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
+
+Any staff member on campus may assign detentions for disrespectful behavior. When possible, teachers should assign detentions to themselves first. When the teacher is full, they may assign students to any classroom with open spots.
+** Assignor Responsibilities
+1. Fill out paper slip detention slip. Give the pink copy to the student.
+2. Fill in the student name on the spreadsheet.
+3. Send the white copy of the detention slip to the office.
+** Questions
+What about students on a 4 period day?
+* Hosting Detentions
+** Meal Service
+Cafeteria manager will make lunches for students serving detention. These will be delivered to the host teachers classroom at the end of the second block.
+** Student Guidelines
++ No use of electronic devices, including Chromebooks.
++ Write the staff apology letter.
++ Follow directions of the host teacher.
+** Host Guidelines
+At your discretion, students may be assigned an additional day for the following reasons:
++ Failing to complete the letter.
++ Disrespectful behavior during the detention.
+** Students Who Don't Show Up
+There will be a Friday after school detention in C-3. We can do this option as long as we notify parents, provide transportation, and offer a Saturday option for any student who wishes to not stay after school.
+** Questions
+What do we do about escalation of behavior during detention?
