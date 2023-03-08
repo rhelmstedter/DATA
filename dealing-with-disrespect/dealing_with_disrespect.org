@@ -18,7 +18,7 @@ Teachers have agreed that any student who exhibits disrespect to any adult on ca
 In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work towards de-escalation of situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
 
 If teachers need further support with broader classroom management, Mike Robinson has offered support for implementing CHAMPS.
-** Logistics [6/7]
+** Logistics [6/8]
 **** DONE Creation of Slides for Homeroom :@Wulff:
 DEADLINE: <2023-02-28 Tue>
 \n
@@ -70,6 +70,18 @@ Teachers may restrict a student's recess time only when they believe that this a
 #+END_QUOTE
 
 Helmstedter's interpretation is that we are *not required* to notify parents of a lunch time detention. However, it is important to involve the parents if we wish to make a difference. As the monitor teacher, Helmstedter will work with admin to get access and send out the parent email.
+**** TODO make copies of apology letter :@Durkee:
+DEADLINE: <2023-03-10 Fri>
+\n
+*Due*: <2023-03-10 Fri>
+
+**** TODO Create SOP Documents :@Helmstedter:
+DEADLINE: <2023-03-07 Tue>
+\n
+*Due*: <2023-03-07 Tue>
+*Status*: [[https://docs.google.com/presentation/d/1NfwnuXgB5gd1C_e6LrII6EnhBy05muwb/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Slideshow]] and handout are complete.
+
+
 ** Admin Support [2/4]
 *Status*: Helmstedter met with Admin (Klopfenstein & Cohen) <2023-03-02 Thu>.
 **** DONE Determine Consequences for No Shows :@Admin:
@@ -95,9 +107,9 @@ DEADLINE: <2023-03-10 Fri>
 *Due*: <2023-03-10 Fri>
 *Status*: The following items need to be completed:
 
-- [ ] Communicate meal pick-up time to cafeteria manager
+- [-] Communicate meal pick-up time to cafeteria manager
 - [ ] Assign people to pick up and distribute lunches
-- [ ] Figure out how delivery people know the correct number per class
+- [-] Figure out how delivery people know the correct number per class
 - [ ] Ensure support staff, paras, campus supervisors, and custodians are up to date
 
 Helmstedter met with Carriger <2023-03-06 Mon>. She is on board to have lunches prepared for students who are serving detention. She has the total number of lunches required per day. Helmstedter will check in with her on <2023-03-13 Mon> and <2023-03-07 Tue> at nutrition.
