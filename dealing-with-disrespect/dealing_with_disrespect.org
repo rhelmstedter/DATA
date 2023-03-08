@@ -15,10 +15,10 @@ We are educators and this is what we do best. We need to teach students what con
 ** Consequences
 Teachers have agreed that any student who exhibits disrespect to any adult on campus will serve a lunch detention. There will be an initial 2-week implementation where teachers will volunteer to host detention in their classrooms. There will be no clubs during these two weeks since teachers will be hosting detention. Lunch detentions will consist of no more than 5 students per room. While serving a lunch detention, student use of electronic devices is prohibited. Furthermore, students are to complete a /staff apology letter/. This letter will provide students an opportunity to reflect on their behavior. If the letter is not completed, students will be assigned additional detentions until the completion of the letter.
 ** Scope
-In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work towards de-escalation of situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
+In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work to de-escalate situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
 
 If teachers need further support with broader classroom management, Mike Robinson has offered support for implementing CHAMPS.
-** Logistics [6/8]
+** Logistics [6/9]
 **** DONE Creation of Slides for Homeroom :@Wulff:
 DEADLINE: <2023-02-28 Tue>
 \n
@@ -28,7 +28,7 @@ DEADLINE: <2023-03-10 Fri>
 \n
 Due:  <2023-03-10 Fri>
 *Status*: Wulff and Lukins are considering three more scenarios for the first week of the detention. Admin approved <2023-03-03 Fri>.
-**** DONE Creation of Google Sheet :@Durkee:
+**** STRT Creation of Google Sheet :@Durkee:
 DEADLINE: <2023-02-28 Tue>
 \n
 *Status*:  [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Final Draft]]. Email was sent to staff and several teachers volunteered. Durkee has placed teachers in the sheet. Helmstedter has updated sheets to include the information indicated below <2023-03-04 Sat>.
@@ -43,6 +43,11 @@ DEADLINE: <2023-03-06 Mon>
 \n
 Helmstedter spoke with Lukins. She suggested to add a place to indicate who assigned the detention.
 
+***** TODO Add a sheet with of all students in detention :@Helmstedter:
+DEADLINE: <2023-03-10 Fri>
+\n
+*Due*: <2023-03-10 Fri>
+*Status*: Need to have first and last name in separate columns and organized by date.
 **** DONE Creation of Staff Apology Letter :@Willis:@StClare:
 DEADLINE: <2023-03-01 Wed>
 \n
@@ -70,18 +75,16 @@ Teachers may restrict a student's recess time only when they believe that this a
 #+END_QUOTE
 
 Helmstedter's interpretation is that we are *not required* to notify parents of a lunch time detention. However, it is important to involve the parents if we wish to make a difference. As the monitor teacher, Helmstedter will work with admin to get access and send out the parent email.
-**** TODO make copies of apology letter :@Durkee:
+**** TODO Make copies of apology letter :@Durkee:
 DEADLINE: <2023-03-10 Fri>
 \n
 *Due*: <2023-03-10 Fri>
 
-**** TODO Create SOP Documents :@Helmstedter:
+**** DONE Create SOP Documents :@Helmstedter:
 DEADLINE: <2023-03-07 Tue>
 \n
 *Due*: <2023-03-07 Tue>
-*Status*: [[https://docs.google.com/presentation/d/1NfwnuXgB5gd1C_e6LrII6EnhBy05muwb/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Slideshow]] and handout are complete.
-
-
+*Status*: [[https://docs.google.com/presentation/d/1NfwnuXgB5gd1C_e6LrII6EnhBy05muwb/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Slideshow]] and [[https://github.com/rhelmstedter/DATA/blob/main/dealing-with-disrespect/detention_SOP.pdf][handout]] are complete.
 ** Admin Support [2/4]
 *Status*: Helmstedter met with Admin (Klopfenstein & Cohen) <2023-03-02 Thu>.
 **** DONE Determine Consequences for No Shows :@Admin:
