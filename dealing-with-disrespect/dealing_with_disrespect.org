@@ -68,7 +68,9 @@ DEADLINE: <2023-03-03 Fri>
 **** DONE Determine if Parent Contact is Required :@Helmstedter:
 DEADLINE: <2023-03-03 Fri>
 \n
-*Status*: From VUSD [[https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030272&revid=763bhJv9jiJ3EEqdhslshHJ8A==&PG=6&st=detention&mt=Exact][Board Policy Manual Regulation 5144:Discipline]]
+From VUSD [[https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030272&revid=763bhJv9jiJ3EEqdhslshHJ8A==&PG=6&st=detention&mt=Exact][Board Policy Manual Regulation 5144:Discipline]]
+-----
+#+ATTR_LATEX: :environment quotation
 #+BEGIN_QUOTE
 *Recess Restriction*
 
@@ -78,8 +80,8 @@ Teachers may restrict a student's recess time only when they believe that this a
 2. The student shall remain under a certificated employee's supervision during the period of restriction.
 3. The student's teacher shall inform the principal of any recess restrictions imposed.
 #+END_QUOTE
-
-Helmstedter's interpretation is that we are *not required* to notify parents of a lunch time detention. However, it is important to involve the parents if we wish to make a difference. As the monitor teacher, Helmstedter will work with admin to get access and send out the parent email.
+-----
+*Status*: Helmstedter's interpretation is that we are *not required* to notify parents of a lunch time detention. However, it is important to involve the parents if we wish to make a difference. As the monitor teacher, Helmstedter will work with admin to get access and send out the parent email.
 **** DONE Create Standard Operating Procedures :@Helmstedter:
 DEADLINE: <2023-03-07 Tue>
 \n
