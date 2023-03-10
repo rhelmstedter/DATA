@@ -1,9 +1,8 @@
 #+TITLE: Dealing with Disrespectful Behavior
 #+AUTHOR: Russell Helmstedter
-#+DATE: <2023-03-08 Wed>
+#+DATE: <2023-03-09 Thu>
 #+OPTIONS: \n:t
-#+LATEX_HEADER: \makeatletter \@ifpackageloaded{geometry}{\geometry{margin=1in}}{\usepackage[margin=1in]{geometry}} \makeatother\hypersetup{colorlinks, allcolors=., urlcolor=blue,}\bigskip
-#+ATTR_LATEX: :environment quotation
+#+LATEX_HEADER: \makeatletter \@ifpackageloaded{geometry}{\geometry{margin=1in}}{\usepackage[margin=1in]{geometry}} \makeatother\hypersetup{colorlinks, allcolors=., urlcolor=blue,}\bigskip \usepackage{enumitem}
 * The Problem
 ** Disrespectful Behavior
 There is a consensus that disrespectful behavior exhibited by students has reached an unacceptable level. We are defining disrespect as deliberate action such as walking away, defying, or talking back to a reasonable request from any adult on campus. While we agree that there are other important issues, this is the principle non-negotiable issue we are facing. Teachers have committed to focusing on this one issue above all others. We need to reset the current narrative by coming out in full force and presenting a united front. The solution to this problem is twofold:
@@ -18,7 +17,7 @@ Teachers have agreed that any student who exhibits disrespect to any adult on ca
 In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work to de-escalate situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
 
 If teachers need further support with broader classroom management, Mike Robinson has offered support for implementing CHAMPS.
-** Logistics [6/9]
+** Logistics [7/9]
 **** DONE Creation of Slides for Homeroom :@Wulff:
 DEADLINE: <2023-02-28 Tue>
 \n
@@ -28,7 +27,7 @@ DEADLINE: <2023-03-10 Fri>
 \n
 Due:  <2023-03-10 Fri>
 *Status*: Wulff and Lukins are considering three more scenarios for the first week of the detention. Admin approved <2023-03-03 Fri>.
-**** STRT Creation of Google Sheet :@Durkee:
+**** DONE Creation of Google Sheet :@Durkee:
 DEADLINE: <2023-02-28 Tue>
 \n
 *Status*:  [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Final Draft]]. Email was sent to staff asking for volunteers to host <2023-03-01 Wed>. Durkee has placed volunteers in the sheet. Helmstedter has updated sheets to include the information indicated below <2023-03-04 Sat>.
@@ -43,11 +42,11 @@ DEADLINE: <2023-03-06 Mon>
 \n
 Helmstedter spoke with Lukins. She suggested to add a place to indicate who assigned the detention.
 
-***** TODO Add a sheet with of all students in detention :@Helmstedter:
+***** DONE Add a sheet with of all students in detention :@Helmstedter:
 DEADLINE: <2023-03-10 Fri>
 \n
 *Due*: <2023-03-10 Fri>
-*Status*: Need to have first and last name in separate columns and organized by date.
+*Status*: Need to have first and last name in separate columns and organized by date. Helmstedter has draft in place <2023-03-09 Thu>. Helmstedter will meet with Klopfenstein to ensure that it fits his needs.
 **** DONE Creation of Staff Apology Letter :@Willis:@StClare:
 DEADLINE: <2023-03-01 Wed>
 \n
@@ -111,7 +110,7 @@ DEADLINE: <2023-03-10 Fri>
 \n
 *Due*: <2023-03-10 Fri>
 *Status*: The following items need to be completed:
-
+#+ATTR_LATEX: :options [noitemsep]
 - [X] Communicate meal pick-up time to cafeteria manager
 - [ ] Assign people to pick up and distribute lunches
 - [X] Figure out how delivery people know the correct number per class
@@ -127,6 +126,7 @@ Suggestions made by Helmstedter and Carriger:
 ** DONE Create Necessary Documents Feb 27 to Mar 03
 DEADLINE: <2023-03-03 Fri> SCHEDULED: <2023-02-27 Mon>
 There are 4 major documents that need to be created:
+#+ATTR_LATEX: \begin{itemize}[noitemsep]
 + [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][Homeroom Slides]]
 + [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Google Sheet]]
 + [[https://docs.google.com/document/d/1GiSqw4xslS1L3ioGGRFosYYuLP2ziROc/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Staff Apology Letter]]
