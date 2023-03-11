@@ -1,6 +1,6 @@
 #+TITLE: Dealing with Disrespectful Behavior
 #+AUTHOR: Russell Helmstedter
-#+DATE: <2023-03-09 Thu>
+#+DATE: <2023-03-10 Fri>
 #+OPTIONS: \n:t
 #+LATEX_HEADER: \makeatletter \@ifpackageloaded{geometry}{\geometry{margin=1in}}{\usepackage[margin=1in]{geometry}} \makeatother\hypersetup{colorlinks, allcolors=., urlcolor=blue,}\bigskip \usepackage{enumitem}
 * The Problem
@@ -17,16 +17,16 @@ Teachers have agreed that any student who exhibits disrespect to any adult on ca
 In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work to de-escalate situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
 
 If teachers need further support with broader classroom management, Mike Robinson has offered support for implementing CHAMPS.
-** Logistics [7/9]
+** Logistics [9/9]
 **** DONE Creation of Slides for Homeroom :@Wulff:
 DEADLINE: <2023-02-28 Tue>
 \n
 *Status*: Initial slides are finished and available here: [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][slides for homeroom]]. Slides have been reviewed by St. Clare, Gonzales, Cohen, and Helmstedter <2023-03-01 Wed>.
-**** STRT Creation of Second round of Slides :@Wulff:@Lukins:
+**** DONE Creation of Second round of Slides :@Wulff:@Lukins:
 DEADLINE: <2023-03-10 Fri>
 \n
 Due:  <2023-03-10 Fri>
-*Status*: Wulff and Lukins are considering three more scenarios for the first week of the detention. Admin approved <2023-03-03 Fri>.
+*Status*: Wulff and Lukins are considering three more scenarios for the first week of the detention. Admin approved <2023-03-03 Fri>. Slides have been sent to Cortez. She will include them in homeroom slides for the following week.
 **** DONE Creation of Google Sheet :@Durkee:
 DEADLINE: <2023-02-28 Tue>
 \n
@@ -55,7 +55,7 @@ DEADLINE: <2023-03-01 Wed>
 DEADLINE: <2023-02-28 Tue>
 \n
 *Status*: Spoke with Pipkin, draft sent to Durkee <2023-02-28 Tue>. The quote from Cohen was added at the beginning. [[https://docs.google.com/document/d/18eMGA8ScMb8S8B4G99kOatsZstaJ_c0fWdk8wJq6EZo/edit?usp=sharing][Final Draft]] has been reviewed by Helmstedter <2023-03-02 Thu>.
-**** TODO Make copies of apology letter :@Durkee:
+**** DONE Make copies of apology letter :@Durkee:
 DEADLINE: <2023-03-10 Fri>
 \n
 *Due*: <2023-03-10 Fri>
@@ -104,8 +104,8 @@ DEADLINE: <2023-03-03 Fri>
 DEADLINE: <2023-03-10 Fri>
 \n
 *Due*: <2023-03-10 Fri>
-*Status*: Cohen will draft a notification that will address this issue specifically. To be sent out <2023-03-10 Fri>.
-**** STRT Meal Service [2/4] :@Admin:
+*Status*: +Cohen will draft a notification that will address this issue specifically.+  [[https://docs.google.com/document/d/1aSKmAo-nondeX58tYgEW7a2Q4Nw6rkQvFf8ToIfj1_k/edit?usp=sharing][Helmstedter's draft]] sent to Cohen <2023-03-10 Fri 15:48>. Cohen to send out message <2023-03-10 Fri>.
+**** STRT Meal Service [1/4] :@Admin:
 DEADLINE: <2023-03-10 Fri>
 \n
 *Due*: <2023-03-10 Fri>
@@ -113,7 +113,7 @@ DEADLINE: <2023-03-10 Fri>
 #+ATTR_LATEX: :options [noitemsep]
 - [X] Communicate meal pick-up time to cafeteria manager
 - [ ] Assign people to pick up and distribute lunches
-- [X] Figure out how delivery people know the correct number per class
+- [ ] Figure out how delivery people know the correct number per class
 - [ ] Ensure support staff, paras, campus supervisors, and custodians are up to date
 
 Helmstedter met with Carriger <2023-03-06 Mon>. She is on board to have lunches prepared for students who are serving detention. She has the total number of lunches required per day. Helmstedter will check in with her on <2023-03-13 Mon> and <2023-03-07 Tue> at nutrition.
@@ -131,16 +131,18 @@ There are 4 major documents that need to be created:
 + [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Google Sheet]]
 + [[https://docs.google.com/document/d/1GiSqw4xslS1L3ioGGRFosYYuLP2ziROc/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Staff Apology Letter]]
 + [[https://docs.google.com/document/d/18eMGA8ScMb8S8B4G99kOatsZstaJ_c0fWdk8wJq6EZo/edit?usp=sharing][Generic Email for Parents]]
-** STRT Begin Education Campaign Mar 06 to Mar 10
+** DONE Begin Education Campaign Mar 06 to Mar 10
 SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
 *Status*: Slides were successfully incorporated into homeroom <2023-03-06 Mon> and will continue to be included for the rest of the week.
-** First week of lunch detention Mar 13 to Mar 17
+** STRT First week of lunch detention Mar 13 to Mar 17
 SCHEDULED: <2023-03-13 Mon> DEADLINE: <2023-03-17 Fri>
+\n
+*Status*: Initial detentions have been assigned to be served <2023-03-13 Mon>.
 ** Second week of lunch detention Mar 20 to Mar 24
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-24 Fri>
 ** Scaled Down Detention Mar 27 to Mar 31
 SCHEDULED: <2023-03-27 Mon> DEADLINE: <2023-03-31 Fri>
-* Future Issues
+* Detention Moving Foward
 After the initial two week period, we can scale back the number of teachers involved in hosting the detentions. This will involve a rotation of teachers who will be compensated.
 ** Logistics [0/3]
 **** TODO Construct a Rotating Calendar :@Admin:
