@@ -86,7 +86,7 @@ DEADLINE: <2023-03-07 Tue>
 \n
 *Due*: <2023-03-07 Tue>
 *Status*: [[https://docs.google.com/presentation/d/1NfwnuXgB5gd1C_e6LrII6EnhBy05muwb/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Slideshow]] and [[https://github.com/rhelmstedter/DATA/blob/main/dealing-with-disrespect/detention_SOP.pdf][Lunch Detention SOP handout]] are complete. Additionally, the first thirty minutes of the department meetings on <2023-03-08 Wed> were devoted the Lunch detention SOP. We met as a staff. Helmstedter gave a presention outlining the procedures, provided hard copies of the handout, and emailed it to the staff. Helmstedter is available to answer questions before school <2023-03-09 Thu> and <2023-03-10 Fri>, or after 2:45 pm <2023-03-10 Fri>.
-** Admin Support [2/4]
+** Admin Support [3/4]
 *Status*: Helmstedter met with Admin (Klopfenstein & Cohen) <2023-03-02 Thu>.
 **** DONE Determine Consequences for No Shows :@Admin:
 DEADLINE: <2023-03-03 Fri>
@@ -100,28 +100,34 @@ DEADLINE: <2023-03-03 Fri>
 #+NAME:   detention slip
 #+attr_latex: :width 250
 [[./detention_slip.jpg]]
-**** STRT Draft Parent Square Notification :@Admin:
+**** DONE Draft Parent Square Notification :@Admin:
 DEADLINE: <2023-03-10 Fri>
 \n
 *Due*: <2023-03-10 Fri>
 *Status*: +Cohen will draft a notification that will address this issue specifically.+  [[https://docs.google.com/document/d/1aSKmAo-nondeX58tYgEW7a2Q4Nw6rkQvFf8ToIfj1_k/edit?usp=sharing][Helmstedter's draft]] sent to Cohen <2023-03-10 Fri 15:48>. Cohen to send out message <2023-03-10 Fri>.
-**** STRT Meal Service [1/4] :@Admin:
+**** STRT Meal Service [0/3] :@Admin:
 DEADLINE: <2023-03-10 Fri>
 \n
 *Due*: <2023-03-10 Fri>
 *Status*: The following items need to be completed:
 #+ATTR_LATEX: :options [noitemsep]
-- [X] Communicate meal pick-up time to cafeteria manager
-- [ ] Assign people to pick up and distribute lunches
-- [ ] Figure out how delivery people know the correct number per class
-- [ ] Ensure support staff, paras, campus supervisors, and custodians are up to date
+- [-] Communicate meal pick-up time to cafeteria manager
+- [-] Assign people to pick up and distribute lunches
+- [-] Figure out how delivery people know the correct number per class
 
 Helmstedter met with Carriger <2023-03-06 Mon>. She is on board to have lunches prepared for students who are serving detention. She has the total number of lunches required per day. Helmstedter will check in with her on <2023-03-13 Mon> and <2023-03-07 Tue> at nutrition.
+
+As of <2023-03-13 Mon>, This is not finalized. Helmstedter sent an email <2023-03-06 Mon> to Admin asking for support with the points listed above. Zach Johnson came into Helmstedter's room during instructional time because he did not know the procedure for delivering meals <2023-03-13 Mon 12:15>. Helmstedter put in place a temporary procedure for today. Then sent a follow up email to Admin asking for confirmation on meal service procedures <2023-03-13 Mon 15:20>.
 
 Suggestions made by Helmstedter and Carriger:
 - Lunches should be ready 10 to 15 minutes before the end of the block.
 - Zach Johnson and student office aides can pick up and deliver the meals.
 - Delivery people can use an iPad and the spread sheet.
+**** TODO Ensure support staff, paras, campus supervisors, and custodians are up to date :@Admin:
+DEADLINE: <2023-03-13 Mon>
+\n
+*Due*: <2023-03-13 Mon>
+Status: Helmstedter sent an email requesting admin keep support staff up to date on procedures <2023-03-06 Mon>. Meal delivery procedure was not communicated to campus supervisor. Support staff in the office did not know how to process the paper detention slips. Helmstedter sent a follow up email to admin <2023-03-13 Mon 15:20> to address these concerns.
 * Timeline for Initial 2 week Implementation
 ** DONE Create Necessary Documents Feb 27 to Mar 03
 DEADLINE: <2023-03-03 Fri> SCHEDULED: <2023-02-27 Mon>
@@ -142,8 +148,8 @@ SCHEDULED: <2023-03-13 Mon> DEADLINE: <2023-03-17 Fri>
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-24 Fri>
 ** Scaled Down Detention Mar 27 to Mar 31
 SCHEDULED: <2023-03-27 Mon> DEADLINE: <2023-03-31 Fri>
-* Detention Moving Foward
-After the initial two week period, we can scale back the number of teachers involved in hosting the detentions. This will involve a rotation of teachers who will be compensated.
+* Detention Moving Forward
+After the initial two week period, we can scale back the number of teachers involved in hosting the detentions. This will involve a rotation of teachers who will be compensated. Helmstedter has requested a meeting with Admin to discuss the logistics moving forward. The request was made once on <2023-03-10 Fri> and again on <2023-03-13 Mon>.
 ** Logistics [0/3]
 **** TODO Construct a Rotating Calendar :@Admin:
 DEADLINE: <2023-03-24 Fri>

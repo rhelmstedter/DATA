@@ -1,0 +1,25 @@
+#+title: Rep Council Meeting
+#+author: Russell Helmstedter
+#+date: <2023-01-23 Mon>
+
+* New CTA Representative
+Andrew Staiano is our new CTA rep. He can answer questions at a big picture level.
+* Membership
+Now up to 682 members in the union. According to the [[https://www.cde.ca.gov/ds/fd/cs/][j90 data]] for 21-22, VUSD has 768.21 FTE. I do not know if this number includes union members such as SLP, counselors, school psychologists, etc., but this yields a rough estimate of 89%.
+* Negotiations
+ Each year we are allowed to open 2 articles in addition to salary and special education. There was a survey that where members were asked what they support. This survey closed <2023-03-13 Mon>. The results will be aggregated and a second survey will be released with only items that were highly ranked. The union expects to release a joint statement in May about which articles are being sunshined.
+* Healthcare Committee
+** Big Picture
+There will be information coming out soon from the healthcare committee that explains everything in detail. The big picture goes back to the [[./rcm_20230123.org::*Healthcare Transition][last meeting]]. Members will stay with their current provider (Kaiser or Anthem) until open enrollment <2024-01-01 Mon>.
+** Cash-in-lieu
+Starts in the fall. You can start at anytime with two caveats. First, you must submit proof of insurance by the fifth of the month in order to get the payment on the next paycheck. Second, you may not join healthcare---barring a life changing event---until the next open enrollment period.
+** Gold Coast
+Hueneme Elementary School District also left Gold Coast. As a result, Gold Coast will be dissolving. There is still money available. It will be split between VUSD and HESD. There are no details on this yet.
+* Small business
++ Buena High School is now on the same schedule as Ventura High School.
++ Scholarships for high school seniors are available until <2023-04-14 Fri>.
+* New Business
+** Release Days
+Remote Work Policy regarding release days for grades and IEPs. Some sites report that Admin claim work must be done on site. There is no policy on this currently.
+** Evaluations
+There is a checkbox for "Not recommended for rehire". This led to a conversation regarding temporary employees. Has any in here been a temporary employee for more than two years?
