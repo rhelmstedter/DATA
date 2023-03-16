@@ -1,0 +1,34 @@
+#+TITLE: Lunch Detention Standard Operating Procedures
+#+DATE: <2023-03-15 Wed>
+#+OPTIONS: toc:nil author:nil
+#+OPTIONS: \n:t \t:t
+#+LATEX_HEADER: \makeatletter \@ifpackageloaded{geometry}{\geometry{margin=1in}}{\usepackage[margin=0.75in]{geometry}}
+#+LATEX_HEADER: \makeatother\hypersetup{colorlinks, allcolors=., urlcolor=blue,}
+#+LaTeX_HEADER: \usepackage[inline]{enumitem}
+#+LATEX_HEADER: \usepackage{enumitem}
+* Lunch Detention SOP
+It is crucial that our focus remains narrow and all staff members work to de-escalate situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion. Any staff member on campus may assign detentions for disrespectful behavior.
+** Assignor Responsibilities
+#+ATTR_LATEX: :environment itemize*
+#+ATTR_LATEX: :options [noitemsep]
+1. Fill out paper slip detention slip. Give the pink copy to the student.
+2. Assign to yourself first if possible.
+3. Notify host teacher of detention and negotiate students exchanging rooms.
+4. Fill in the student name on the spreadsheet.
+5. Send the white copy of the detention slip to the office.
+** Meal Service
+Meals will be delivered to the host teachers classrooms before the end of the second block.
+** Student Responsibilities
+#+ATTR_LATEX: :environment itemize*
+#+ATTR_LATEX: :options [noitemsep]
++ No use of electronic devices, including Chromebooks.
++ Write the staff apology letter.
++ Follow directions of the host teacher.
+** Host Responsibilities
+#+ATTR_LATEX: :environment itemize*
+#+ATTR_LATEX: :options [noitemsep]
++ Collect the letter at the end of lunch. Optional: place in box of assignor.
++ Assign second day of detention for failure to complete the staff apology letter.
++ Color code sheet appropriately based on student action.
+** Students Who Don't Show Up
+There will be a Friday after school detention in C-3. Students are assigned to this detention for disrespectful behavior during detention or not showing up.
