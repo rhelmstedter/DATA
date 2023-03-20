@@ -3,7 +3,7 @@
 #+DATE: March 19, 2023
 
 #+columns: %ITEM(TASK) %TODO(STATUS) %SCHEDULED %DEADLINE
-#+OPTIONS: \n:t
+#+OPTIONS: \n:t todo:nil
 #+LATEX_HEADER: \makeatletter \@ifpackageloaded{geometry}{\geometry{margin=1in}}{\usepackage[margin=1in]{geometry}}
 #+LATEX_HEADER: \makeatother\hypersetup{colorlinks, allcolors=., urlcolor=blue,}\bigskip
 #+LaTeX_HEADER: \usepackage[inline]{enumitem}
@@ -12,11 +12,11 @@
 #+begin_export latex
 \clearpage \tableofconents \clearpage
 #+end_export
+
 * The Problem
 There is a consensus that disrespectful behavior exhibited by students has reached an unacceptable level. We are defining disrespect as deliberate action such as walking away, defying, or talking back to a reasonable request from any adult on campus. While we agree that there are other important issues, this is the principle non-negotiable issue we are facing. Teachers have committed to focusing on this one issue above all others. We need to reset the current narrative by coming out in full force and presenting a united front. The solution to this problem is twofold:
 1. Educate
 2. Enforce Consequences
-
 * Solutions
 ** Educate
 We are educators and this is what we do best. We need to teach students what constitutes disrespectful behavior and that will not be allowed at this school. Teachers have committed to creating slides that show clear examples of disrespect. These slides are to be pushed out in homeroom. When appropriate, all staff members need to identify disrespectful behavior and explain to students why it is disrespectful.
@@ -69,7 +69,8 @@ SCHEDULED: <2023-02-27 Mon> DEADLINE: <2023-03-03 Fri>
 *Status*: Email was sent to staff asking if their were volunteers for the monitor teacher. No teacher volunteered. Helmstedter is assigned to be the monitor teacher for the initial 2 week period. Will coordinate with admin, campus supervisors, and detention teachers.
 **** DONE Determine if Parent Contact is Required :Helmstedter:
 SCHEDULED: <2023-02-27 Mon> DEADLINE: <2023-03-03 Fri>
-From VUSD [[https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030272&revid=763bhJv9jiJ3EEqdhslshHJ8A==&PG=6&st=detention&mt=Exact][Board Policy Manual Regulation 5144:Discipline]]
+\n
+From VUSD [[https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030272&revid=763bhJv9jiJ3EEqdhslshHJ8A==&PG=6&st=detention&mt=Exact][Board Policy Manual Regulation 5144:Discipline]]:
 -----
 #+ATTR_LATEX: :environment quotation
 #+BEGIN_QUOTE
