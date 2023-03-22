@@ -2,13 +2,13 @@
 #+AUTHOR: Russell Helmstedter
 #+DATE: March 19, 2023
 
-#+columns: %ITEM(TASK) %TODO(STATUS) %SCHEDULED %DEADLINE
+#+columns: %ITEM(TASK) %TODO(STATUS) %SCHEDULED(START) %DEADLINE
 #+OPTIONS: \n:t todo:nil
-#+LATEX_HEADER: \makeatletter \@ifpackageloaded{geometry}{\geometry{margin=1in}}{\usepackage[margin=1in]{geometry}}
+#+LATEX_HEADER: \makeatletter \@ifpackageloaded{geometry}{\geometry{margin=0.75in}}{\usepackage[margin=0.75in]{geometry}}
 #+LATEX_HEADER: \makeatother\hypersetup{colorlinks, allcolors=., urlcolor=blue,}\bigskip
 #+LaTeX_HEADER: \usepackage[inline]{enumitem}
 #+LaTeX_HEADER: \setlist{nosep}
-#+LaTeX_HEADER: \usepackage{tabularx}
+#+LaTeX_HEADER: \usepackage{lscape}
 #+begin_export latex
 \clearpage \tableofconents \clearpage
 #+end_export
@@ -26,49 +26,33 @@ Teachers have agreed that any student who exhibits disrespect to any adult on ca
 In order for this campaign to be successful, it is crucial that our focus remains narrow and all staff members work to de-escalate situations when possible. Lunch detentions may only be assigned for disrespectful behavior. Behavior outside the scope of disrespect includes, but is not limited to: dress code violations, cell phone use, tardies, missing assignments, or academic infractions. Behavior outside the scope of disrespect must be addressed in another fashion.
 
 If teachers need further support with broader classroom management, Mike Robinson has offered support for implementing CHAMPS.
-** Logistics [9/9]
+** Logistics [10/10]
 **** DONE Create Slides for Homeroom :Wulff:
-SCHEDULED: <2023-02-27 Mon> DEADLINE: <2023-02-28 Tue>
+SCHEDULED: <2023-02-24 Fri> DEADLINE: <2023-02-28 Tue>
 \n
-*Status*: Initial slides are finished and available here: [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][slides for homeroom]]. Slides have been reviewed by St. Clare, Gonzales, Cohen, and Helmstedter <2023-03-01 Wed>.
-**** DONE Create Second round of Slides :Wulff:Lukins:
-SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
-\n
-*Status*: Wulff and Lukins are considering three more scenarios for the first week of the detention. Admin approved <2023-03-03 Fri>. Slides have been sent to Cortez. She will include them in homeroom slides for the following week.
+Slides have been reviewed by St. Clare, Gonzales, Cohen, and Helmstedter <2023-03-01 Wed>. [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][Slides for homeroom]] are finished.
 **** DONE Create Google Sheet :Durkee:Helmstedter:
-SCHEDULED: <2023-02-27 Mon> DEADLINE: <2023-02-28 Tue>
-\n
-*Status*:  [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Final Draft]]. Email was sent to staff asking for volunteers to host <2023-03-01 Wed>. Durkee has placed volunteers in the sheet. Helmstedter has updated sheets to include the information indicated below <2023-03-04 Sat>.
+SCHEDULED: <2023-02-24 Fri> DEADLINE: <2023-02-28 Tue>
+Email was sent to staff asking for volunteers to host <2023-03-01 Wed>. Durkee has placed volunteers in the sheet. Helmstedter has updated sheets to include the information indicated below <2023-03-04 Sat>. [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Final draft]] of spreadsheet.
+
 ***** DONE Sum number of students per day :Helmstedter:
 SCHEDULED: <2023-03-03 Fri> DEADLINE: <2023-03-06 Mon>
-\n
-Helmstedter will create a sheet that counts the number of students in detention in each day. This will be used by the cafeteria to prepare lunches.
 ***** DONE Add links to documents :Helmstedter:
 SCHEDULED: <2023-03-03 Fri> DEADLINE: <2023-03-06 Mon>
 ***** DONE Add a column for teacher who assigned student :Helmstedter:
 SCHEDULED: <2023-03-03 Fri> DEADLINE: <2023-03-06 Mon>
-\n
-Helmstedter spoke with Lukins. She suggested to add a place to indicate who assigned the detention.
-
 ***** DONE Add a sheet containing all students in detention :Helmstedter:
 SCHEDULED: <2023-03-03 Fri> DEADLINE: <2023-03-06 Mon>
-\n
 **** DONE Create Staff Apology Letter :Willis:StClare:
-DEADLINE: <2023-03-01 Wed> SCHEDULED: <2023-02-27 Mon>
+DEADLINE: <2023-03-01 Wed> SCHEDULED: <2023-02-24 Fri>
 \n
-*Status*: Spoke with St. Clare <2023-02-28 Tue>. Draft has been reviewed by Lukins, Willis, Helmstedter. [[https://docs.google.com/document/d/1GiSqw4xslS1L3ioGGRFosYYuLP2ziROc/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Final draft]] done <2023-03-01 Wed>.
+Helmstedter spoke with St. Clare <2023-02-28 Tue>. Draft has been reviewed by Lukins, Willis, Helmstedter. [[https://docs.google.com/document/d/1GiSqw4xslS1L3ioGGRFosYYuLP2ziROc/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Final draft]] done <2023-03-01 Wed>.
 **** DONE Create Generic Parent Email :Pipkin:
-SCHEDULED: <2023-02-27 Mon> DEADLINE: <2023-02-28 Tue>
+SCHEDULED: <2023-02-24 Fri> DEADLINE: <2023-02-28 Tue>
 \n
-*Status*: Spoke with Pipkin, draft sent to Durkee <2023-02-28 Tue>. The quote from Cohen was added at the beginning. [[https://docs.google.com/document/d/18eMGA8ScMb8S8B4G99kOatsZstaJ_c0fWdk8wJq6EZo/edit?usp=sharing][Final Draft]] has been reviewed by Helmstedter <2023-03-02 Thu>.
-**** DONE Make Copies of Apology letter :Durkee:
-SCHEDULED: <2023-03-08 Wed> DEADLINE: <2023-03-10 Fri>
-**** DONE Assign a Monitor Teacher :Helmstedter:
-SCHEDULED: <2023-02-27 Mon> DEADLINE: <2023-03-03 Fri>
-\n
-*Status*: Email was sent to staff asking if their were volunteers for the monitor teacher. No teacher volunteered. Helmstedter is assigned to be the monitor teacher for the initial 2 week period. Will coordinate with admin, campus supervisors, and detention teachers.
+Spoke with Pipkin, draft sent to Durkee <2023-02-28 Tue>. The quote from Cohen was added at the beginning. [[https://docs.google.com/document/d/18eMGA8ScMb8S8B4G99kOatsZstaJ_c0fWdk8wJq6EZo/edit?usp=sharing][Final Draft]] has been reviewed by Helmstedter <2023-03-02 Thu>.
 **** DONE Determine if Parent Contact is Required :Helmstedter:
-SCHEDULED: <2023-02-27 Mon> DEADLINE: <2023-03-03 Fri>
+SCHEDULED: <2023-02-24 Fri> DEADLINE: <2023-03-03 Fri>
 \n
 From VUSD [[https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030272&revid=763bhJv9jiJ3EEqdhslshHJ8A==&PG=6&st=detention&mt=Exact][Board Policy Manual Regulation 5144:Discipline]]:
 -----
@@ -85,34 +69,45 @@ Teachers may restrict a student's recess time only when they believe that this a
 3. The student's teacher shall inform the principal of any recess restrictions imposed.
 #+END_QUOTE
 -----
-*Status*: Helmstedter's interpretation is that we are *not required* to notify parents of a lunch time detention. However, it is important to involve the parents if we wish to make a difference. As the monitor teacher, Helmstedter will work with admin to get access and send out the parent email.
+Helmstedter's interpretation is that we are *not required* to notify parents of a lunch time detention. However, it is important to involve the parents if we wish to make a difference. As the monitor teacher, Helmstedter will work with admin to get access and send out the parent email.
+**** DONE Assign a Monitor Teacher :Helmstedter:
+SCHEDULED: <2023-02-27 Mon> DEADLINE: <2023-03-03 Fri>
+\n
+Email was sent to staff asking if their were volunteers for the monitor teacher. No teacher volunteered. Helmstedter has been assigned to be the monitor teacher for the initial 2 week period. Will coordinate with admin, campus supervisors, and detention teachers.
 **** DONE Create Standard Operating Procedures :Helmstedter:
 SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-07 Tue>
 \n
-*Status*: [[https://docs.google.com/presentation/d/1NfwnuXgB5gd1C_e6LrII6EnhBy05muwb/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Slideshow]] and [[https://github.com/rhelmstedter/DATA/blob/main/dealing-with-disrespect/detention_SOP.pdf][Lunch Detention SOP handout]] are complete. Additionally, the first thirty minutes of the department meetings on <2023-03-08 Wed> were devoted the Lunch detention SOP. We met as a staff. Helmstedter gave a presention outlining the procedures, provided hard copies of the handout, and emailed it to the staff. Helmstedter is available to answer questions before school <2023-03-09 Thu> and <2023-03-10 Fri>, or after 2:45 pm <2023-03-10 Fri>.
-** Admin Support [5/5]
-*Status*: Helmstedter met with Admin (Klopfenstein & Cohen) <2023-03-02 Thu>.
-**** DONE Determine Consequences for No Shows :Admin:
-SCHEDULED: <2023-02-28 Tue> DEADLINE: <2023-03-03 Fri>
+[[https://docs.google.com/presentation/d/1NfwnuXgB5gd1C_e6LrII6EnhBy05muwb/edit?usp=sharing&ouid=103300073545602807799&rtpof=true&sd=true][Slideshow]] and [[https://github.com/rhelmstedter/DATA/blob/main/dealing-with-disrespect/detention_SOP.pdf][Lunch Detention SOP handout]] are complete.
+**** DONE Make Copies of Apology letter :Durkee:
+SCHEDULED: <2023-03-08 Wed> DEADLINE: <2023-03-10 Fri>
+**** DONE Inform Staff of SOP :Helmstedter:
+SCHEDULED: <2023-03-07 Tue> DEADLINE: <2023-03-10 Fri>
+The first thirty minutes of the department meetings on <2023-03-08 Wed> were devoted the Lunch detention SOP. We met as a staff. Helmstedter gave a presention outlining the procedures, provided hard copies of the handout, and emailed it to the staff. Helmstedter is available to answer questions before school <2023-03-09 Thu> and <2023-03-10 Fri>, or after 2:45 pm <2023-03-10 Fri>.
+**** DONE Create Second round of Slides :Wulff:Lukins:
+SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
 \n
-*Status*: For students who do not show up, there will be a Friday afterschool detention in C-3. This option requires transportation, and a Saturday option for any student who wishes to do that instead of after school. Details are in the works for this process.<2023-03-02 Thu>. Klopfenstein will have a dedicated sheet that includes the students for the Friday afterschool detentions.
+Wulff and Lukins have created three more scenarios for the first week of the detention. Admin approved <2023-03-03 Fri>. Slides have been sent to Cortez. She will include them in homeroom slides for the following week.
+** Admin Support [5/5]
+Helmstedter met with Klopfenstein & Cohen <2023-03-02 Thu>.
+**** DONE Determine Consequences for No Shows :Admin:
+SCHEDULED: <2023-02-27 Mon> DEADLINE: <2023-03-03 Fri>
+\n
+For students who do not show up, there will be a Friday afterschool detention in C-3. This option requires transportation, and a Saturday option for any student who wishes to do that instead of after school. Details are in the works for this process.<2023-03-02 Thu>. Klopfenstein will have a dedicated sheet that includes the students for the Friday afterschool detentions.
 **** DONE Determine Student Notification Procedure :Admin:
 SCHEDULED: <2023-02-27 Mon> DEADLINE: <2023-03-03 Fri>
 \n
-*Status*: The paper slip shown below (Figure 1) will serve as an initial notification for the student. The white copy is sent to the office, the pink copy is given to the student. After office use, the white copy will be placed in the teacher's box. On the day of the detention, Navarro (or whoever is in the support secretary/attendance position) will go through the spreadsheet and create call slips. That will be sent during the second block period.
+The paper slip shown below (Figure 1) will serve as an initial notification for the student. The white copy is sent to the office, the pink copy is given to the student. After office use, the white copy will be placed in the teacher's box. On the day of the detention, Navarro (or whoever is in the support secretary/attendance position) will go through the spreadsheet and create call slips. That will be sent during the second block period.
 #+CAPTION: image of detention slip
 #+NAME:   detention slip
 #+attr_latex: :width 250
 [[./detention_slip.jpg]]
 **** DONE Draft Parent Square Notification :Admin:
-SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
+SCHEDULED: <2023-03-02 Thu> DEADLINE: <2023-03-10 Fri>
 \n
-*Status*: +Cohen will draft a notification that will address this issue specifically.+  [[https://docs.google.com/document/d/1aSKmAo-nondeX58tYgEW7a2Q4Nw6rkQvFf8ToIfj1_k/edit?usp=sharing][Helmstedter's draft]] sent to Cohen <2023-03-10 Fri 15:48>. Cohen to send out message <2023-03-10 Fri>.
++Cohen will draft a notification that will address this issue specifically.+ [[https://docs.google.com/document/d/1aSKmAo-nondeX58tYgEW7a2Q4Nw6rkQvFf8ToIfj1_k/edit?usp=sharing][Helmstedter's draft]] sent to Cohen <2023-03-10 Fri 15:48>. Cohen sent out message <2023-03-10 Fri>.
 **** DONE Meal Service [3/3] :Admin:
 SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
-\n
-*Due*: <2023-03-10 Fri>
-*Status*: The following items have been completed:
+The following items have been completed:
 #+ATTR_LATEX: :environment itemize*
 #+ATTR_LATEX: :options [noitemsep]
 + [X] Communicate meal pick-up time to cafeteria manager
@@ -124,14 +119,12 @@ Helmstedter met with Carriger <2023-03-06 Mon>. She is on board to have lunches 
 As of <2023-03-13 Mon>, this was not finalized. Helmstedter sent an email <2023-03-06 Mon> to Admin asking for support with the points listed above. Sch Johnson came into Helmstedter's room during instructional time because he did not know the procedure for delivering meals <2023-03-13 Mon 12:15>. Helmstedter put in place a temporary procedure for today. Then sent a follow up email to Admin asking for confirmation on meal service procedures <2023-03-13 Mon 15:20>.
 
 Helmstedter and Klopfenstein spoke <2023-03-14 Tue>. Klopfenstein will be responsible for pickup and delivery of meals.
-**** DONE Inform Support Staff :Admin:
+**** DONE Inform Support Staff of SOP :Admin:
 SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
-\n
-*Due*: <2023-03-10 Fri>
-*Status*: Helmstedter sent an email requesting admin keep support staff up to date on procedures <2023-03-06 Mon>. Meal delivery procedure was not communicated to campus supervisor. Support staff in the office did not know how to process the paper detention slips. Helmstedter sent a follow up email to admin <2023-03-13 Mon 15:20> to address these concerns. Helmstedter and Klopfenstein spoke <2023-03-14 Tue>. Klopfenstein will cover detention slip procedure with office staff.
+Helmstedter sent an email requesting admin keep support staff up to date on procedures <2023-03-06 Mon>. Meal delivery procedure was not communicated to campus supervisor. Support staff in the office did not know how to process the paper detention slips. Helmstedter sent a follow up email to admin <2023-03-13 Mon 15:20> to address these concerns. Helmstedter and Klopfenstein spoke <2023-03-14 Tue>. Klopfenstein will cover detention slip procedure with office staff.
 * Timeline 
 ** DONE Create Documents
-DEADLINE: <2023-03-03 Fri> SCHEDULED: <2023-02-27 Mon>
+DEADLINE: <2023-03-03 Fri> SCHEDULED: <2023-02-24 Fri>
 There are 5 major documents:
 #+ATTR_LATEX: :environment itemize*
 #+ATTR_LATEX: :options [noitemsep]
@@ -142,74 +135,111 @@ There are 5 major documents:
 + [[https://docs.google.com/presentation/d/1j9XnlOQnEj7ySt8KAybcA0BzBEQ-hDK2YxKmWYnvMLc/edit?usp=sharing][CHAMPS Levels During Detention]]
 ** DONE Education Campaign
 SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
-*Status*: Slides were successfully incorporated into homeroom <2023-03-06 Mon> and will continue to be included for the rest of the week.
+Slides were successfully incorporated into homeroom <2023-03-06 Mon> and will continue to be included for the rest of the week.
 ** DONE First Week
 SCHEDULED: <2023-03-13 Mon> DEADLINE: <2023-03-17 Fri>
 \n
-*Status*: Helmstedter has checked in with Admin, cafeteria manager, and host teachers from day one. All concerns are being addressed. St. Clare has created an additional document: [[https://docs.google.com/presentation/d/1j9XnlOQnEj7ySt8KAybcA0BzBEQ-hDK2YxKmWYnvMLc/edit?usp=sharing][CHAMPS Levels During Detention]] <2023-03-14 Tue>. This is a single slide with CHAMPS expectations
+Helmstedter has checked in with Admin, cafeteria manager, and host teachers for day one. All concerns are being addressed. St. Clare has created an additional document: [[https://docs.google.com/presentation/d/1j9XnlOQnEj7ySt8KAybcA0BzBEQ-hDK2YxKmWYnvMLc/edit?usp=sharing][CHAMPS Levels During Detention]] <2023-03-14 Tue>. This is a single slide with CHAMPS expectations
 
-During the staff meeting, it was agreed upon that assignors should notify the host teacher when not assigning to themselves.
+The was a debrief during the staff meeting <2023-03-15 Wed>. Anecdotally, staff mentioned that interactions with students have changed for the better. While addressing areas of improvement, staff agreed to the following. First, when a student is assigned to a host teacher please notify that teacher. Second, we also trying to be aware of breaking up friend groups in order to manage detention sessions. Hosts may negotiate swapping the rooms in which students serve in order to manage this. Both of these must happen on the day before the detention is served to ensure the call slips and meals are delivered to the correct location.
 ** STRT Second Week
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-24 Fri>
 ** TODO Scale Down Detention
 SCHEDULED: <2023-03-27 Mon> DEADLINE: <2023-03-31 Fri>
 * Detention Moving Forward
-After the initial two week period, we can scale back the number of teachers involved in hosting the detentions. This will involve a rotation of teachers who will be compensated. Helmstedter has requested a meeting with Admin to discuss the logistics moving forward. Request made: <2023-03-10 Fri>, <2023-03-13 Mon>, and <2023-03-16 Thu>.
-** Logistics [0/4]
-**** TODO Construct a Rotating Calendar :Admin:
+After the initial two week period, we can scale back the number of teachers involved in hosting the detentions. This will involve a rotation of teachers who will be compensated. Helmstedter has requested a meeting with Admin to discuss the logistics moving forward. Request made: <2023-03-10 Fri>, <2023-03-13 Mon>, and <2023-03-16 Thu>. Helmstedter met with Klopfenstein and Cohen <2023-03-20 Mon>.
+** Logistics [1/6]
+**** STRT Construct a Rotating Calendar :Admin:
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
 \n
 *Due*: <2023-03-22 Wed>
-We need to figure out who will take on the position. How many times per week? How many people?
-**** TODO Procedure for Getting People Paid :Admin:
-SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
-\n
-*Due*: <2023-03-22 Wed>
-**** TODO Procedure for Tracking Repeat Students :Admin:
-SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
-\n
-*Due*: <2023-03-22 Wed>
-Per the staff meeting <2023-03-15 Wed>: there needs to be a clear policy in place for students who are in detention for multiple days. What clear steps can be put in place for progressive disciple? What triggers those steps?
-**** TODO Long-term Procedure for Assigning Detentions :Admin:
-SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
-\n
-*Due*: <2023-03-22 Wed>
-With the scaled back detention, the google sheet is overkill. Are we able to just use the detention slip?
+We are looking to 5 teachers to serve approximately 2-3 days per week. Per the board memo, people have to be on the list in order to get paid. Email sent out to staff <2023-03-20 Mon>.
 
-In the staff meeting there were questions about having a space to write what happened? Can we use the referral form for that instead? And then under "other" have staff fill in lunch detention?
+Availability:
+#+ATTR_LATEX: :environment itemize*
+#+ATTR_LATEX: :options [noitemsep]
++ Lukins: T R
++ Ramirez: M W
++ Lynch: 3 days a week
++ St. Clare: 2 days per week
++ Mejia: T W R F
++ Davidson as needed
 
-What about entering in Q? Two issues: 1) Teachers don't have access to all students. 2) If data has to be entered in multiple places, it won't happen.
-**** TODO Inform Staff of the Procedure :Admin:
+**** DONE Procedure for Paying Hosts :Admin:
+SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
+\n
+*Due*: <2023-03-22 Wed>
+Fill out a time sheet with your hours. Paid at the distrait rate.
+**** STRT Procedure for Tracking Repeat Students :Admin:
+SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
+\n
+*Due*: <2023-03-22 Wed>
+Per the staff meeting <2023-03-15 Wed> : there needs to be a clear policy in place for students who are in detention for multiple days. What clear steps can be put in place for progressive disciple? What triggers those steps?
+
+Students will be entered into a spreadsheet that can be tracked long term.
+**** STRT Create Google Form :Helmstedter:
+DEADLINE: <2023-03-22 Wed> SCHEDULED: <2023-03-20 Mon>
+Attendance directly on the sheet either with color or drop down absent or present.
+
+Google form will include ([[https://docs.google.com/forms/d/1TGzSZjTFGPMEO4JjFbt63XVEOknTfm7RHmpVtluCQVs/edit][form]]):
+#+ATTR_LATEX: :environment itemize*
+#+ATTR_LATEX: :options [noitemsep]
++ student first name
++ student last name
++ assignor name
++ date to be served
+**** STRT Long-term Procedure for Assigning Detentions :Admin:
+SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
+\n
+*Due*: <2023-03-22 Wed>
+Klopfenstein will create a new detention slip that has space to write a description of the event. That way staff members only have to fill out the paper slip.
+
+Paper slip will include:
+#+ATTR_LATEX: :environment itemize*
+#+ATTR_LATEX: :options [noitemsep]
++ description of event
++ assignor name
++ student name
++ date to be served
+**** TODO Inform Staff of Long-term Procedure :Admin:
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-24 Fri>
 \n
 *Due*: <2023-03-24 Fri>
 * Task Statuses
 #+BEGIN: columnview :hlines 1 :id global :maxlevel 4 :skip-empty-rows t
-| TASK                                         | STATUS | SCHEDULED        | DEADLINE         |
+| TASK                                         | STATUS | START            | DEADLINE         |
 |----------------------------------------------+--------+------------------+------------------|
-| Create Slides for Homeroom                   | DONE   | [2023-02-27 Mon] | [2023-02-28 Tue] |
-| Create Second round of Slides                | DONE   | [2023-03-06 Mon] | [2023-03-10 Fri] |
-| Create Google Sheet                          | DONE   | [2023-02-27 Mon] | [2023-02-28 Tue] |
-| Create Staff Apology Letter                  | DONE   | [2023-02-27 Mon] | [2023-03-01 Wed] |
-| Create Generic Parent Email                  | DONE   | [2023-02-27 Mon] | [2023-02-28 Tue] |
-| Make Copies of Apology letter                | DONE   | [2023-03-08 Wed] | [2023-03-10 Fri] |
+| Create Slides for Homeroom                   | DONE   | [2023-02-24 Fri] | [2023-02-28 Tue] |
+| Create Google Sheet                          | DONE   | [2023-02-24 Fri] | [2023-02-28 Tue] |
+| Create Staff Apology Letter                  | DONE   | [2023-02-24 Fri] | [2023-03-01 Wed] |
+| Create Generic Parent Email                  | DONE   | [2023-02-24 Fri] | [2023-02-28 Tue] |
+| Determine if Parent Contact is Required      | DONE   | [2023-02-24 Fri] | [2023-03-03 Fri] |
 | Assign a Monitor Teacher                     | DONE   | [2023-02-27 Mon] | [2023-03-03 Fri] |
-| Determine if Parent Contact is Required      | DONE   | [2023-02-27 Mon] | [2023-03-03 Fri] |
 | Create Standard Operating Procedures         | DONE   | [2023-03-06 Mon] | [2023-03-07 Tue] |
-| Determine Consequences for No Shows          | DONE   | [2023-02-28 Tue] | [2023-03-03 Fri] |
+| Make Copies of Apology letter                | DONE   | [2023-03-08 Wed] | [2023-03-10 Fri] |
+| Inform Staff of SOP                          | DONE   | [2023-03-07 Tue] | [2023-03-10 Fri] |
+| Create Second round of Slides                | DONE   | [2023-03-06 Mon] | [2023-03-10 Fri] |
+| Determine Consequences for No Shows          | DONE   | [2023-02-27 Mon] | [2023-03-03 Fri] |
 | Determine Student Notification Procedure     | DONE   | [2023-02-27 Mon] | [2023-03-03 Fri] |
-| Draft Parent Square Notification             | DONE   | [2023-03-06 Mon] | [2023-03-10 Fri] |
+| Draft Parent Square Notification             | DONE   | [2023-03-02 Thu] | [2023-03-10 Fri] |
 | Meal Service                                 | DONE   | [2023-03-06 Mon] | [2023-03-10 Fri] |
-| Inform Support Staff                         | DONE   | [2023-03-06 Mon] | [2023-03-10 Fri] |
-| Create Documents                             | DONE   | [2023-02-27 Mon] | [2023-03-03 Fri] |
+| Inform Support Staff of SOP                  | DONE   | [2023-03-06 Mon] | [2023-03-10 Fri] |
+| Create Documents                             | DONE   | [2023-02-24 Fri] | [2023-03-03 Fri] |
 | Education Campaign                           | DONE   | [2023-03-06 Mon] | [2023-03-10 Fri] |
 | First Week                                   | DONE   | [2023-03-13 Mon] | [2023-03-17 Fri] |
 | Second Week                                  | STRT   | [2023-03-20 Mon] | [2023-03-24 Fri] |
 | Scale Down Detention                         | TODO   | [2023-03-27 Mon] | [2023-03-31 Fri] |
-| Construct a Rotating Calendar                | TODO   | [2023-03-20 Mon] | [2023-03-22 Wed] |
-| Procedure for Getting People Paid            | TODO   | [2023-03-20 Mon] | [2023-03-22 Wed] |
-| Procedure for Tracking Repeat Students       | TODO   | [2023-03-20 Mon] | [2023-03-22 Wed] |
-| Long-term Procedure for Assigning Detentions | TODO   | [2023-03-20 Mon] | [2023-03-22 Wed] |
-| Inform Staff of the Procedure                | TODO   | [2023-03-20 Mon] | [2023-03-24 Fri] |
-|----------------------------------------------+--------+------------------+------------------|
+| Construct a Rotating Calendar                | STRT   | [2023-03-20 Mon] | [2023-03-22 Wed] |
+| Procedure for Paying Hosts                   | DONE   | [2023-03-20 Mon] | [2023-03-22 Wed] |
+| Procedure for Tracking Repeat Students       | STRT   | [2023-03-20 Mon] | [2023-03-22 Wed] |
+| Create Google Form                           | STRT   | [2023-03-20 Mon] | [2023-03-22 Wed] |
+| Long-term Procedure for Assigning Detentions | STRT   | [2023-03-20 Mon] | [2023-03-22 Wed] |
+| Inform Staff of Long-term Procedure          | TODO   | [2023-03-20 Mon] | [2023-03-24 Fri] |
 #+END:
+
+#+begin_export latex
+\begin{landscape}
+#+end_export
+#+NAME:   gantt chart
+#+attr_latex: :width 700
+[[./gantt_chart.jpg]]
