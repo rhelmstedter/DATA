@@ -242,4 +242,4 @@ SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-24 Fri>
 #+end_export
 #+NAME:   gantt chart
 #+attr_latex: :width 700
-[[./gantt_chart.jpg]]
+[[./gantt_chart.png]]
