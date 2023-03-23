@@ -1,6 +1,6 @@
 #+TITLE: Dealing with Disrespectful Behavior
 #+AUTHOR: Russell Helmstedter
-#+DATE: March 21, 2023
+#+DATE: March 22, 2023
 
 #+columns: %ITEM(TASK) %TODO(STATUS) %SCHEDULED(START) %DEADLINE
 #+OPTIONS: \n:t todo:nil
@@ -179,7 +179,7 @@ Per the staff meeting <2023-03-15 Wed> : there needs to be a clear policy in pla
 Students will be entered into a spreadsheet that can be tracked long term.
 **** STRT Create Google Form :Helmstedter:
 DEADLINE: <2023-03-22 Wed> SCHEDULED: <2023-03-20 Mon>
-Attendance directly on the sheet either with color or drop down absent or present.
+Lunch detention attendance can be taken directly on the sheet either with color or drop down absent or present. Helmstedter sent a draft to admin <2023-03-22 Wed>.
 
 Google form will include ([[https://docs.google.com/forms/d/1TGzSZjTFGPMEO4JjFbt63XVEOknTfm7RHmpVtluCQVs/edit][form]]):
 #+ATTR_LATEX: :environment itemize*
@@ -192,7 +192,7 @@ Google form will include ([[https://docs.google.com/forms/d/1TGzSZjTFGPMEO4JjFbt
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
 \n
 *Due*: <2023-03-22 Wed>
-Klopfenstein will create a new detention slip that has space to write a description of the event. That way staff members only have to fill out the paper slip.
+Klopfenstein will create a new detention slip that has space to write a description of the event. That way staff members only have to fill out the paper slip. Helmstedter spoke with Klopfenstein <2023-03-22 Wed> the new paper slips will not be available by next week. We will continue to use the ones we have currently.
 
 Paper slip will include:
 #+ATTR_LATEX: :environment itemize*
