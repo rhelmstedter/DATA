@@ -33,6 +33,7 @@ SCHEDULED: <2023-02-24 Fri> DEADLINE: <2023-02-28 Tue>
 Slides have been reviewed by St. Clare, Gonzales, Cohen, and Helmstedter <2023-03-01 Wed>. [[https://docs.google.com/presentation/d/1KKa5UEtjeGV4UMOOm35VP2P7YFTUVjxKv-Us0XIVoMk/edit?usp=sharing][Slides for homeroom]] are finished.
 **** DONE Create Google Sheet :Durkee:Helmstedter:
 SCHEDULED: <2023-02-24 Fri> DEADLINE: <2023-02-28 Tue>
+\n
 Email was sent to staff asking for volunteers to host <2023-03-01 Wed>. Durkee has placed volunteers in the sheet. Helmstedter has updated sheets to include the information indicated below <2023-03-04 Sat>. [[https://docs.google.com/spreadsheets/d/12TRL6GPD7My0B4FP1R4O19bCQTj2PNMqy49vHuAmTLw/edit?usp=sharing][Final draft]] of spreadsheet.
 
 ***** DONE Sum number of students per day :Helmstedter:
@@ -82,6 +83,7 @@ SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-07 Tue>
 SCHEDULED: <2023-03-08 Wed> DEADLINE: <2023-03-10 Fri>
 **** DONE Inform Staff of SOP :Helmstedter:
 SCHEDULED: <2023-03-07 Tue> DEADLINE: <2023-03-10 Fri>
+\n
 The first thirty minutes of the department meetings on <2023-03-08 Wed> were devoted the Lunch detention SOP. We met as a staff. Helmstedter gave a presention outlining the procedures, provided hard copies of the handout, and emailed it to the staff. Helmstedter is available to answer questions before school <2023-03-09 Thu> and <2023-03-10 Fri>, or after 2:45 pm <2023-03-10 Fri>.
 **** DONE Create Second round of Slides :Wulff:Lukins:
 SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
@@ -107,6 +109,7 @@ SCHEDULED: <2023-03-02 Thu> DEADLINE: <2023-03-10 Fri>
 +Cohen will draft a notification that will address this issue specifically.+ [[https://docs.google.com/document/d/1aSKmAo-nondeX58tYgEW7a2Q4Nw6rkQvFf8ToIfj1_k/edit?usp=sharing][Helmstedter's draft]] sent to Cohen <2023-03-10 Fri 15:48>. Cohen sent out message <2023-03-10 Fri>.
 **** DONE Meal Service [3/3] :Admin:
 SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
+\n
 The following items have been completed:
 #+ATTR_LATEX: :environment itemize*
 #+ATTR_LATEX: :options [noitemsep]
@@ -114,13 +117,14 @@ The following items have been completed:
 + [X] Assign people to pick up and distribute lunches
 + [X] Figure out how delivery people know the correct number per class
 
-Helmstedter met with Carriger <2023-03-06 Mon>. She is on board to have lunches prepared for students who are serving detention. She has the total number of lunches required per day. Helmstedter will check in with her on <2023-03-13 Mon> and <2023-03-07 Tue> at nutrition.
+Helmstedter met with Carrier <2023-03-06 Mon>. She is on board to have lunches prepared for students who are serving detention. She has the total number of lunches required per day. Helmstedter will check in with her on <2023-03-13 Mon> and <2023-03-07 Tue> at nutrition.
 
-As of <2023-03-13 Mon>, this was not finalized. Helmstedter sent an email <2023-03-06 Mon> to Admin asking for support with the points listed above. Sch Johnson came into Helmstedter's room during instructional time because he did not know the procedure for delivering meals <2023-03-13 Mon 12:15>. Helmstedter put in place a temporary procedure for today. Then sent a follow up email to Admin asking for confirmation on meal service procedures <2023-03-13 Mon 15:20>.
+As of <2023-03-13 Mon>, this was not finalized. Helmstedter sent an email <2023-03-06 Mon> to Admin asking for support with the points listed above. Z. Johnson came into Helmstedter's room during instructional time because he did not know the procedure for delivering meals <2023-03-13 Mon 12:15>. Helmstedter put in place a temporary procedure for <2023-03-13 Mon>, then sent a follow up email to Admin asking for confirmation on meal service procedures <2023-03-13 Mon 15:20>.
 
 Helmstedter and Klopfenstein spoke <2023-03-14 Tue>. Klopfenstein will be responsible for pickup and delivery of meals.
 **** DONE Inform Support Staff of SOP :Admin:
 SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
+\n
 Helmstedter sent an email requesting admin keep support staff up to date on procedures <2023-03-06 Mon>. Meal delivery procedure was not communicated to campus supervisor. Support staff in the office did not know how to process the paper detention slips. Helmstedter sent a follow up email to admin <2023-03-13 Mon 15:20> to address these concerns. Helmstedter and Klopfenstein spoke <2023-03-14 Tue>. Klopfenstein will cover detention slip procedure with office staff.
 * Timeline 
 ** DONE Create Documents
@@ -134,8 +138,8 @@ There are 5 major documents:
 + [[https://docs.google.com/document/d/18eMGA8ScMb8S8B4G99kOatsZstaJ_c0fWdk8wJq6EZo/edit?usp=sharing][Email for Parents]] & [[https://docs.google.com/document/d/1KrKhBEFdeXcH3HDp9zFGucO4COC5ALHrTdvZuLop1Rs/edit?usp=sharing][Spanish Version]]
 + [[https://docs.google.com/presentation/d/1j9XnlOQnEj7ySt8KAybcA0BzBEQ-hDK2YxKmWYnvMLc/edit?usp=sharing][CHAMPS Levels During Detention]]
 ** DONE Education Campaign
-SCHEDULED: <2023-03-06 Mon> DEADLINE: <2023-03-10 Fri>
-Slides were successfully incorporated into homeroom <2023-03-06 Mon> and will continue to be included for the rest of the week.
+DEADLINE: <2023-03-16 Thu> SCHEDULED: <2023-03-06 Mon>
+Slides were successfully incorporated into homeroom <2023-03-06 Mon> and will continue to be included for the rest of the week. An additional round of slides were created and pushed out in homeroom during the second week as well.
 ** DONE First Week
 SCHEDULED: <2023-03-13 Mon> DEADLINE: <2023-03-17 Fri>
 \n
@@ -148,14 +152,21 @@ SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-24 Fri>
 SCHEDULED: <2023-03-27 Mon> DEADLINE: <2023-03-31 Fri>
 * Detention Moving Forward
 After the initial two week period, we can scale back the number of teachers involved in hosting the detentions. This will involve a rotation of teachers who will be compensated. Helmstedter has requested a meeting with Admin to discuss the logistics moving forward. Request made: <2023-03-10 Fri>, <2023-03-13 Mon>, and <2023-03-16 Thu>. Helmstedter met with Klopfenstein and Cohen <2023-03-20 Mon>.
-** Logistics [1/6]
-**** STRT Construct a Rotating Calendar :Admin:
+** Logistics [4/6]
+**** DONE Construct a Rotating Calendar :Admin:
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
 \n
-*Due*: <2023-03-22 Wed>
-We are looking to 5 teachers to serve approximately 2-3 days per week. Per the board memo, people have to be on the list in order to get paid. Email sent out to staff <2023-03-20 Mon>.
+We are looking to 5 teachers to serve approximately 2-3 days per week. Per the board memo, people have to be on the list in order to get paid. Email sent out to staff <2023-03-20 Mon>. The first iteration will be as follows:
 
-Availability:
+|---------+--------+---------+--------+-----------|
+| Mon     | Tue    | Wed     | Thu    | Fri       |
+|---------+--------+---------+--------+-----------|
+| Ramirez | Lukins | Ramirez | Lukins | St. Clare |
+|---------+--------+---------+--------+-----------|
+
+Mejia, Lynch, and Davidson will act as alternates in case of absences or if the number of detentions exceeds 7 per room.
+
+*Availability*:
 #+ATTR_LATEX: :environment itemize*
 #+ATTR_LATEX: :options [noitemsep]
 + Lukins: T R
@@ -168,31 +179,23 @@ Availability:
 **** DONE Procedure for Paying Hosts :Admin:
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
 \n
-*Due*: <2023-03-22 Wed>
 Fill out a time sheet with your hours. Paid at the distrait rate.
-**** STRT Procedure for Tracking Repeat Students :Admin:
+**** DONE Procedure for Tracking Repeat Students :Admin:
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
 \n
-*Due*: <2023-03-22 Wed>
-Per the staff meeting <2023-03-15 Wed> : there needs to be a clear policy in place for students who are in detention for multiple days. What clear steps can be put in place for progressive disciple? What triggers those steps?
+Per the staff meeting <2023-03-15 Wed>, there needs to be a clear policy in place for students who are in detention for multiple days. What clear steps can be put in place for progressive discipline? What triggers those steps?
 
-Students will be entered into a spreadsheet that can be tracked long term.
-**** STRT Create Google Form :Helmstedter:
+Per conversation with Helmstedter, Cohen, and Klopfenstein <2023-03-23 Thu>, Cohen will outline the progressive discipline steps in an email to the staff. Furthermore, there will be a spreadsheet that support stand and admin have access to that will track students long term who have lunch detentions.
+**** DONE Create Google Form :Helmstedter:
 DEADLINE: <2023-03-22 Wed> SCHEDULED: <2023-03-20 Mon>
+\n
 Lunch detention attendance can be taken directly on the sheet either with color or drop down absent or present. Helmstedter sent a draft to admin <2023-03-22 Wed>.
 
-Google form will include ([[https://docs.google.com/forms/d/1TGzSZjTFGPMEO4JjFbt63XVEOknTfm7RHmpVtluCQVs/edit][form]]):
-#+ATTR_LATEX: :environment itemize*
-#+ATTR_LATEX: :options [noitemsep]
-+ student first name
-+ student last name
-+ assignor name
-+ date to be served
+The Google form ([[https://docs.google.com/forms/d/1TGzSZjTFGPMEO4JjFbt63XVEOknTfm7RHmpVtluCQVs/edit][draft form]]) will include all the information found on the new detention slip.
 **** STRT Long-term Procedure for Assigning Detentions :Admin:
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-22 Wed>
 \n
-*Due*: <2023-03-22 Wed>
-Klopfenstein will create a new detention slip that has space to write a description of the event. That way staff members only have to fill out the paper slip. Helmstedter spoke with Klopfenstein <2023-03-22 Wed> the new paper slips will not be available by next week. We will continue to use the ones we have currently.
+Klopfenstein will create a new detention slip that has space to write a description of the event. That way staff members only have to fill out the paper slip. Helmstedter spoke with Klopfenstein <2023-03-22 Wed> the new paper slips will not be available until after spring break. We will continue to use the ones we have currently.
 
 Paper slip will include:
 #+ATTR_LATEX: :environment itemize*
@@ -201,10 +204,10 @@ Paper slip will include:
 + assignor name
 + student name
 + date to be served
-**** TODO Inform Staff of Long-term Procedure :Admin:
+**** STRT Inform Staff of Long-term Procedure :Admin:
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-24 Fri>
 \n
-*Due*: <2023-03-24 Fri>
+Per conversation with Helmstedter, Cohen, and Klopfenstein <2023-03-23 Thu>, admin will send out an email informing all staff of the new procedure moving forward.
 * Task Statuses
 #+BEGIN: columnview :hlines 1 :id global :maxlevel 4 :skip-empty-rows t
 | TASK                                         | STATUS | START            | DEADLINE         |
@@ -225,16 +228,16 @@ SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-24 Fri>
 | Meal Service                                 | DONE   | [2023-03-06 Mon] | [2023-03-10 Fri] |
 | Inform Support Staff of SOP                  | DONE   | [2023-03-06 Mon] | [2023-03-10 Fri] |
 | Create Documents                             | DONE   | [2023-02-24 Fri] | [2023-03-03 Fri] |
-| Education Campaign                           | DONE   | [2023-03-06 Mon] | [2023-03-10 Fri] |
+| Education Campaign                           | DONE   | [2023-03-06 Mon] | [2023-03-16 Thu] |
 | First Week                                   | DONE   | [2023-03-13 Mon] | [2023-03-17 Fri] |
 | Second Week                                  | STRT   | [2023-03-20 Mon] | [2023-03-24 Fri] |
 | Scale Down Detention                         | TODO   | [2023-03-27 Mon] | [2023-03-31 Fri] |
-| Construct a Rotating Calendar                | STRT   | [2023-03-20 Mon] | [2023-03-22 Wed] |
+| Construct a Rotating Calendar                | DONE   | [2023-03-20 Mon] | [2023-03-22 Wed] |
 | Procedure for Paying Hosts                   | DONE   | [2023-03-20 Mon] | [2023-03-22 Wed] |
-| Procedure for Tracking Repeat Students       | STRT   | [2023-03-20 Mon] | [2023-03-22 Wed] |
-| Create Google Form                           | STRT   | [2023-03-20 Mon] | [2023-03-22 Wed] |
+| Procedure for Tracking Repeat Students       | DONE   | [2023-03-20 Mon] | [2023-03-22 Wed] |
+| Create Google Form                           | DONE   | [2023-03-20 Mon] | [2023-03-22 Wed] |
 | Long-term Procedure for Assigning Detentions | STRT   | [2023-03-20 Mon] | [2023-03-22 Wed] |
-| Inform Staff of Long-term Procedure          | TODO   | [2023-03-20 Mon] | [2023-03-24 Fri] |
+| Inform Staff of Long-term Procedure          | STRT   | [2023-03-20 Mon] | [2023-03-24 Fri] |
 #+END:
 
 #+begin_export latex
