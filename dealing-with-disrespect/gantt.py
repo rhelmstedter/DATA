@@ -15,7 +15,8 @@ def color(row):
 
 
 df = (
-    df.astype({"STATUS": "category"})
+    df
+    .astype({"STATUS": "category"})
     .assign(schedule_date=pd.to_datetime(df.START, format="[%Y-%m-%d %a]"))
     .assign(deadline_date=pd.to_datetime(df.DEADLINE, format="[%Y-%m-%d %a]"))
     .assign(start_num=lambda df_: (df_.schedule_date - df_.schedule_date.min()).dt.days)
@@ -67,11 +68,11 @@ legend_elements = [Patch(facecolor=COLOR_DICT[i], label=i) for i in COLOR_DICT]
 plt.legend(handles=legend_elements)
 
 # Get "Today" value from sys date/ date.today()
-today = pd.Timestamp(date.today()) + timedelta(1)
+today = pd.Timestamp(date.today())
 today = today - df.schedule_date.min()
 # plot line for today
 ax.axvline(today.days, color="k", lw=1, alpha=0.7)
-ax.text(today.days, len(df) + 0.5, "Mon 03/27", ha="right", color="k")
+ax.text(today.days, len(df) + 0.5, "Today", ha="right", color="k")
 
 plt.tight_layout()
 plt.savefig("gantt_chart.png")
