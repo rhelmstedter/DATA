@@ -211,8 +211,8 @@ There was a debrief during the staff meeting <2023-03-15 Wed>. Anecdotally, staf
 ** DONE Second Week
 SCHEDULED: <2023-03-20 Mon> DEADLINE: <2023-03-24 Fri>
 The second week came to an end successfully. Notably, there was an increase in no shows. Klopfenstein contacted the parents of all no shows and assigned them after school detention.
-** STRT Scale Down Detention
-SCHEDULED: <2023-03-27 Mon> DEADLINE: <2023-03-31 Fri>
+** DONE Scale Down Detention
+CLOSED: [2023-04-22 Sat 09:51] SCHEDULED: <2023-03-27 Mon> DEADLINE: <2023-03-31 Fri>
 
 #+begin_export latex
 \clearpage \tableofconents \clearpage
@@ -246,7 +246,7 @@ SCHEDULED: <2023-03-27 Mon> DEADLINE: <2023-03-31 Fri>
 | Education Campaign                            | DONE   | [2023-03-06 Mon] | [2023-03-16 Thu] |
 | First Week                                    | DONE   | [2023-03-13 Mon] | [2023-03-17 Fri] |
 | Second Week                                   | DONE   | [2023-03-20 Mon] | [2023-03-24 Fri] |
-| Scale Down Detention                          | STRT   | [2023-03-27 Mon] | [2023-03-31 Fri] |
+| Scale Down Detention                          | DONE   | [2023-03-27 Mon] | [2023-03-31 Fri] |
 #+END:
 
 #+begin_export latex

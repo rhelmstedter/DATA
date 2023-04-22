@@ -16,8 +16,8 @@ def construct_dataframe() -> pd.DataFrame:
     df: pd.DataFrame = pd.read_csv("./dwd_tasks.csv")
     return (
         df.astype({"STATUS": "category"})
-        .assign(schedule_date=pd.to_datetime(df.START, format="[%Y-%m-%d %a]"))
-        .assign(deadline_date=pd.to_datetime(df.DEADLINE, format="[%Y-%m-%d %a]"))
+        .assign(schedule_date=pd.to_datetime(df["START DATE"], format="[%Y-%m-%d %a]"))
+        .assign(deadline_date=pd.to_datetime(df["DUE DATE"], format="[%Y-%m-%d %a]"))
         .assign(
             start_num=lambda df_: (df_.schedule_date - df_.schedule_date.min()).dt.days
         )
@@ -39,11 +39,11 @@ def construct_plot(df: pd.DataFrame) -> None:
     ax.set_axisbelow(True)
     ax.xaxis.grid(color="k", linestyle="dashed", alpha=0.1, which="both")
 
-    # Get "Today" value from sys date/ date.today()
-    today = pd.Timestamp(date.today())
-    today = today - df.schedule_date.min()
-    ax.axvline(today.days, color="k", lw=1, alpha=0.7)
-    ax.text(today.days, len(df) + 0.5, "Today", ha="right", color="k")
+    # # Get "Today" value from sys date/ date.today()
+    # today = pd.Timestamp(date.today())
+    # today = today - df.schedule_date.min()
+    # ax.axvline(today.days, color="k", lw=1, alpha=0.7)
+    # ax.text(today.days, len(df) + 0.5, "Today", ha="right", color="k")
 
     # align x axis
     ax.set_xlim(-4, df.end_num.max())
