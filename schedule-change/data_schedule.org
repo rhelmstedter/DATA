@@ -1,0 +1,78 @@
+#+title: DATA Schedule
+#+author: Russell Helmstedter
+#+date: <2024-01-22 Mon>
+
+#+setupfile: ../../my_latex_setup.org
+#+columns: %25ITEM(TASK) %TODO(STATUS) %CLOSED(FINISHED)
+#+OPTIONS: \n:t todo:nil toc:nil tags:nil
+#+LaTeX_HEADER: \usepackage[inline]{enumitem}
+#+LaTeX_HEADER: \setlist{nosep}
+
+#+begin_export latex
+\clearpage
+\setcounter{tocdepth}{2}
+\tableofcontents
+\clearpage
+#+end_export
+
+* Address Instructional Minute Discrepancy
+At the Site Rep Council Meeting <2024-01-22 Mon> Helmstedter and Davidson asked McLaughlin about the alleged discrepancy in instructional minutes between DATA and the other middle schools.
+
+** The Process
+Site membership must vote on a new schedule. We can collect proposed schedules (PSs), survey interest regarding PSs, and parties can lobby for competing PSs this year. However, an official vote can not take place until the 2024-2025 school year. The PS would go into effect for the 2025-2026 school year.
+
+An official vote must be either for or against a specific PS. Meaning, we can not place multiple PSs on a single ballot. If a PS does not pass, we would continue to implement the current schedule.
+
+Below is an excerpt from Article 27 on Site Based Decisions.
+
+-----
+#+begin_quote
+Procedures for Site-Based Decision making:
+
+A school site must follow steps #1-6 in order to implement school site change(s) that affect the
+VUEA/VUSD Collective Bargaining Agreement:
+
+1. Proposal Development at School Site
+2. Initial Site Voting on Proposal (1/3 majority required)
+3. School Site Council Approval
+4. District Steering Council (DSC) Approval
+5. Final School Site Approval Voting (2/3 majority required)
+6. Contract waiver(s) upon ratification by VUEA and VUSD shall be written and fully incorporated into the VUEA and VUSD Contract by use of Memorandum of Understanding(MOU). The MOU(s) shall contain the specific site subject to the waiver(s), the nature/description/details of the waiver(s), the effective date, the duration of the waiver(s), and the process for renewal of the waiver(s).
+#+end_quote
+-----
+
+** Timeline
+The contract dictates the following deadlines. We would work to hold the initial site vote at the beginning the year.
+
+#+ATTR_LATEX: :environment itemize*
+#+ATTR_LATEX: :options [noitemsep]
++ November 01: Initial Site Vote on PS
++ December 01: PS submitted to the School Site Council
++ December 15: School Site Council must approve or reject PS
++ January 15: District Steering Council must approve or reject PS
++ February 15: Final site vote.
+
+** Logistics [0/4]
+*** WAIT Gather Instructional Mins :VUEA:
+SCHEDULED: <2024-01-23 Tue>
+McLaughlin said we should email Bobbi Powers about the instructional minutes. While site members have been investigating minutes based on schedules available online, we want to ensure we are accounting for other variations in minutes (e.g., number of minimum days).
+
+Helmstedter emailed Bobby Powers <2024-01-23 Tue>.
+*** TODO Collect Proposed Schedules :VUEA:
+DEADLINE: <2024-06-14 Fri>
+Members can submit PSs to Helmstedter and Davidson.
+*** TODO Survey staff :VUEA:
+Identify which PS will go on the ballot.
+*** TODO Take a Vote :VUEA:
+DEADLINE: <2024-11-01 Fri>
+The VUEA member vote can not be between schedules, it must be a yes or no for a specific schedule. Once we take that vote, we contact McLaughlin and she will walk us through the process.
+
+** Tasks Status
+#+BEGIN: columnview :hlines 1 :id global :maxlevel 4 :skip-empty-rows t :minlevel 2
+| TASK                       | STATUS | FINISHED |
+|----------------------------+--------+----------|
+| Gather Instructional Mins  | NEXT   |          |
+| Collect Proposed Schedules | TODO   |          |
+| Survey staff               | TODO   |          |
+| Take a Vote                | TODO   |          |
+#+END:
